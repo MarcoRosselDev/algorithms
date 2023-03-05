@@ -15,3 +15,17 @@
     I'm fine, thenks.
 
     */
+
+// A    Complete the conversation with the correct words in parentheses.
+//      Then practice with a partner.
+
+/*  Beb         Hello, Christy. How ---are---(are/is) you ?
+    Christy     ---I'm---(I'm/It's) fine, thanks. ---I'm---(I'm/It's) sorry - what's your 
+                name again?
+    Ben         ---It's--- Ben - Ben Durant.
+    Christy     Tant's right! Ben, this ---is--- Joshua Brown.
+                ---He's--- in our history class.
+    Ben         ---It's--- nice to meet you.
+    Joshua      Hi, Ben. I think ---you're--- in my english class, too.
+    Ben         Oh, right! Yes, ---I'am---
+*/
