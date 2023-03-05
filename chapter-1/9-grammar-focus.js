@@ -29,3 +29,20 @@
     Joshua      Hi, Ben. I think ---you're--- in my english class, too.
     Ben         Oh, right! Yes, ---I'am---
 */
+
+// B    Complete the conversation. Then practice in groups.
+
+/*  Cara         Exuse me.---Are--- you Ales Lane?
+    James        No, ---I'm---not. My name ---is--- James Harris.
+                Alex ---is--- over there.
+    Cara        Oh, sorry.
+
+    Cara        ---Are--- you Alex Lane?
+    Alex        Yes, I ---am---
+    Cara        Hi. ---My name is/I'm-- Cara Ruiz.
+    Alex        Oh, ---You Are/you're--- in my history class, right?
+    Cara        Yes, I---am---
+    Alex        ---It's--- nice to meet you, Cara.
+
+
+*/
