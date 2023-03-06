@@ -25,6 +25,10 @@
 4.  A: What | [ 's this ] ?
     B: | [ it's a sunglass ]
 
+    ------------------------
+    A: What | [ are these ] ?
+    B: | [ they're sunglasses ]
+
 5.  A: What | [ 's this ] ?
     B: | [ it's a wallet ]
 
