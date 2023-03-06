@@ -22,7 +22,7 @@
         B" Yes, -  they  -   are. Thanks!.
 
     2.  A: Where    -  Are  -   my glasses ?
-        B: Are  -  they -   your glasses ?
+        B: Are  -  these -   your glasses ?
         A: No, they're  -  not  -   .
         B: Look!    -  Are  -   they in your pocket ?
         A: Yes, -  they are  -   .Thanks!
@@ -34,8 +34,18 @@
 
     4.  A: -  Is  -   this my umbrella ?
         B: No, -  it's  -   not. It's my umbrella.
-        A: Sorry.-   This  -   is my umbrella ?
+        A: Sorry.-   Where  -   is my umbrella ?
         B: -  It's  -   on your chair.
         A: Oh, you're right!
 
+*/
+
+/* B    Complete these sentences. 
+
+    1.  The books are in the backpack
+    2.  The flash drives are next to the laptop
+    3.  The newspaper is on the tablet
+    4.  The chair is behind the desk
+    5.  The wallet is on the note book
+    6.  The glasses are in front of the tv
 */
