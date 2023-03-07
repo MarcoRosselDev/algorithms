@@ -9,7 +9,7 @@
     A- Yoo-jin?. Where is she from ?
     B- She's from South Korea.
 
-2-  A- Hi, Brittany. How are you today ?
+2-  A- Hi, Brittany. How are you ?
     B- I'm fine, thanks. My friend Leandro is here this week - from Argentina.
     A- Oh, cool. What's he like ?
     B- He's really friendly.
@@ -23,7 +23,7 @@
     A- What's your last name ?
     B- My last name is Ganim.
 
-4-  A- Good morning, Luke. How are you today ?
+4-  A- Good morning, Luke. How are you ?
     B- I'm great, thanks.
     A- Cool, who are they ?
     B- They're  my friends from school.
