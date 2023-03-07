@@ -42,4 +42,12 @@ Diferencias de adjetivo y pronombres---->
     
 2.  A-  Hey! These aren't _our_(our\ours) sneakers!
     B-  You're right._ours_(our\ours) are over there
+
+3.  A-  Are these _your_(your\yours) gloves, Erin ?
+    B-  No, they're not _mine_(my\mine). Maybe they are Logan's
+
+4.  A-  _whose_(whose\yours) T-shirts are thes ? Are they Hayley's and
+        Brand's ?
+    B-  No, they're not _their_(their\theirs) T-shirts.
+        _theirs_(their\theirs) are white, not blue.
 */
