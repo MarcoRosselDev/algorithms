@@ -24,3 +24,14 @@
     B- No, you are not. You are early!
 
 */
+
+/* 2 Complete the questions with how, what, where, or who. Then match the questions with the answers.
+
+1-  Who is that?            d- She's my siter.
+2-  What is her name?       c- Her name is Hina.
+3-  What is she like?       f- She's very nice and friendly.
+4-  How old is she?         b- She's 18.
+5-  Where your family from? a- We're from Japan - from Kyoto.
+6-  What si Kyoto like?     e- Oh, it's really beautiful. 
+
+*/
