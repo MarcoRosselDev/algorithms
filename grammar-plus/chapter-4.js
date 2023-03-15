@@ -20,3 +20,19 @@
 5- Ayumi isn't wearing a scarf.
 
 */
+
+/* 3    Present coninuous
+
+1-  A- Is Mr. Thomas wearing a dark blue coat ?
+    B- No, he's not.
+
+2-  A- Are you wearing high heels ?
+    B- No, we're not
+
+3-  A- Are you wearing a sweater ?
+    B- Yes, I am.
+
+4-  A- Is it raining ?
+    B- Yes, it is.
+
+*/
