@@ -11,3 +11,18 @@ Then match the questions with the answer.
 6   What time do the games start ?      Usually at four o'clock.
 
 */
+
+/* 2    Can for ability
+
+A   Write sentences about the things people can and can't do.
+    Use con or can't with and, but, or or.
+
+    1   Olivia can ride a bike, but she can't drive a car.
+    2   Juan can play the piano, and he can play the violin.
+    3   Matt and Drew can act, but they can't sing.
+    4   Alicia can snowboard, but she can't ice-skate.
+    5   Ben can take good photos, and he can edit videos.
+    6   Corinne can't write poems, but she can tell good jokes.
+    
+
+*/
