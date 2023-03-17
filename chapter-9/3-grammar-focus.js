@@ -15,4 +15,31 @@
             Let's put some apples in it.
     Jane    Are you serious ? Apples in potato salad ? Well, OK...
 
+    B   Complete the chart with foods from Exercise 1. 
+
+    ---------
+    Count
+    ---------
+    crackers
+    bananas
+    potatoes
+    apples
+    onions
+    blueberries
+    tomatoes
+    oranges
+
+    ----------
+    Nonconunt
+    ----------
+    bread
+    milk
+    butter
+    oil
+    sugar
+    salt
+    pasta
+    coffee
+    cereal
+
 */
