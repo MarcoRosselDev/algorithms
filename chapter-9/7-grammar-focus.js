@@ -1,0 +1,12 @@
+/* Adverbs of frequency
+
+always      siempre
+usually     generalmente
+often       con frecuencia
+sometimes   algunas veces
+hardly ever casi nunca
+never       nunca.
+
+sometimes I eat breackfast.
+
+*/
