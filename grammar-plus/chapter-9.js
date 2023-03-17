@@ -24,3 +24,17 @@ A   Great! So we don't need to buy any at the store.
 B   That's right. Just eggs and cereal!
 
 */
+
+/* 2    adverbs of frequency
+
+Reweite the conversation. Add the adverbs in the correct places.
+
+A   Where do you usually have lunch?
+B   I often go to a restaurant near work
+A   Do you ever eat at your desk ?
+B   No, I hardly ever stay in for lunch.
+A   And what do you usually have ?
+B   I always have soup or a salad.
+A   Me, too. I never have a big lunch.
+
+*/
