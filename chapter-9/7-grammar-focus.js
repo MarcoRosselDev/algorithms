@@ -21,3 +21,12 @@ A   Do you often eat breakfast at you desk ?
 B   No, I hardly ever eat breakfast at my desk.
 
 */
+
+/* B    Uscramble the sentences
+
+1   I hardly ever have beef for lunch.
+2   I never eat snacks when I watch TV.
+3   I sometimes eat eggs for breakfast.
+4   I usually have dinner with my family
+
+*/
