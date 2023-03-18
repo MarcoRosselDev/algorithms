@@ -32,3 +32,15 @@ He is going to cook his special homemade pizza for Rosa and me.
     A   No, they're not.
 
 */
+
+/* 2    Wh-questions with be going to
+
+A   What are you going to do this weekend ?
+B   I am goin to have a very busy weekend. My friend Amir is going to visit me, and we are going to spend the weekend in the city.
+A   That's nice. Are you going to stay in a hotel ?
+B   No, we're going to stay with our friend Lara. And Lara is going to have a big party on Saturday night.
+A   Really ? And who's going to be at the party ? 
+    Do you know any of Lara's friends ?
+B   No, I don't. But Amir and I are going to meet everyone on Saturday night.
+
+*/
