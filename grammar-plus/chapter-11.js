@@ -13,3 +13,22 @@ After the movie, we are going to go to our firend Philip's house.
 He is going to cook his special homemade pizza for Rosa and me.
 
 */
+
+/*  B   write questions. 
+
+1.  Q   Is Matthew going to celebrate with his family ?
+    A   No, he's going to celebrate with his friends.
+
+2   Q   Are stephen and Matthw going to ride their bikes to the beach ?
+    A   No, They're going to the beach.
+
+3   Q   Are the friends going to have lunch at a restaurant ?
+    A   Yes, they are.
+
+4   Q   Are Rosa and Matthew going to go to a museum ?
+    A   No, they are going to see a movie.
+
+5   Q   Are Rose and Matthew going to have pizza at a restaurant ?
+    A   No, they're not.
+
+*/
