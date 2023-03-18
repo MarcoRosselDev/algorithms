@@ -13,3 +13,20 @@ How do you feel ?
     I don't feel well.
 
 */
+
+/* Negative and positive adjectives
+
+Negative adjectives
+    Horrible
+    Awful
+    Terrible
+    Miserable
+
+Positive adjectives
+    Fine
+    Great
+    Terrific
+    Fantastic
+
+
+*/
