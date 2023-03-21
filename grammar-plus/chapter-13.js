@@ -12,3 +12,16 @@ A   Great. Thanks very much.
 B   You're welcome.
 
 */
+
+/* 2    Jenna doesn't know Manhattan at all. Correct Jenna's directions.
+
+1   Cal         How do I get to Washington Squere Park ?
+    Jenna       Walk up Fifth Avenue.
+    You         No, don't walk up Fifth Avenue. Walk down Fifth Avenue.
+
+2   Cal         How can I get to the Empire State Building ?
+    Jenna       Turn right on 32nd Street.
+    You         No, don't turn right on 32nd Street. Turn left on 32nd Street.
+
+
+*/
