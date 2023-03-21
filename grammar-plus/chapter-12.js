@@ -13,3 +13,14 @@ b   Well, feel better soon.
 a   Thanks.
 
 */
+
+/* 2    Read the situations. Give the people advice.
+
+1   Dave:       I can't sleep at night.         Don't drink coffee in the evening.
+2   Corey:      I have a headache.              Take two aspirins.
+3   Lucia:      I work 12 hours a day.          Don't work too hard.
+4   William:    My legs hurt.                   Don't exercise today or tomorrow.
+5   Min-ho:     I have a toothache.             Don't eat any cold food.
+6   Fatima:     I have an awful stomachache.    Take an antacid.
+
+*/
