@@ -23,5 +23,12 @@ B   You're welcome.
     Jenna       Turn right on 32nd Street.
     You         No, don't turn right on 32nd Street. Turn left on 32nd Street.
 
+3   Cal         How do I get to Bryant Park from Rockefeller Center ?
+    Jenna       Go down Sixth Avenue.
+    You         No, don't go down Sixth Avenue. go up Sixth Avenue.
+
+4   Cal         How do I get to Central Park ?
+    Jenna       Walk down Eighth Avenue.
+    You         No, don't walk down Eighth Avenue. Walk up Eighth Avenue.
 
 */
