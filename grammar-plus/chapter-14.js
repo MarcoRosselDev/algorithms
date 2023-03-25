@@ -18,3 +18,16 @@ Tell me about your wekkend !
 Maya.
 
 */
+
+/* 2    Complete the conversation. Use the simple past form of the verbs in parentheses. 
+
+a   Did you enjoy your vacations ?
+b   Yes, I did. My brother and I had a great time.
+a   Did you make any videos ?
+b   No, we didn't. But we took a lot of pictures.
+a   That's good. Did you see a lot of interesting things ?
+b   Yes, we did. And we ate a lot of new foods. How about you ?
+    Did you have a good summer ?
+a   Well, I didn't go anywhere, but I read a lot of good books and saw some great movies.
+
+*/
