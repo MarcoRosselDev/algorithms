@@ -25,6 +25,9 @@ A   Do you know these expressions? Which ones are "hellos"
     How are you?
     How's it going?
     What's up?
+    Good afternoon.
+    Good evening.
+
     Good-bye------------------------
     Bye.
     Good night.
@@ -32,5 +35,16 @@ A   Do you know these expressions? Which ones are "hellos"
     See you later.
     See you tomorrow.
     Talk yo you later.
+    See you.
+    Later.
+
+*/
+
+/* B    Match each expressions with the best response.
+
+1.  Have a good day.        b.  Thank you. You, too.
+2.  Hi. How are you?        d.  Pretty good, thanks.
+3.  What's up?              a.  Oh, not much.
+4.  Good morning.           c.  Good morning.
 
 */
