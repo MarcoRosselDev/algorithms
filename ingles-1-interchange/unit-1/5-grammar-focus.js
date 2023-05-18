@@ -12,3 +12,25 @@ A   Complete these sentences. Then tell a partner about yourself.
     _I'm_ a student at City College. _My_ parents are on vacation this week.
     _They're_ in Las Vegas.  
 */
+
+/* B    Complete these questions. Then practice with a partner
+
+1.  A:  Who's that?
+    B:  Oh, that's Mrs. Adams.
+
+2.  A:  _Where's_ She from ?
+    B: She's from San Diego.
+
+3.  A:  _What's_ her first name ?
+    B:  It's Caroline.
+
+4.  A:  _What's name_ the two students over there ?
+    B:  Their names are Mason and Ava.
+
+5.  A:
+    B:
+
+6.  A:
+    B:
+
+*/
