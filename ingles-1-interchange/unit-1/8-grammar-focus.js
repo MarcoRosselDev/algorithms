@@ -14,3 +14,12 @@ A   Complete the conversations. Then practice with a partner
     B:  No, they -aren't- . -They're- Peruvian.
 
 */
+
+/* B    Answer these questions. fi you answer "no," give the correct information.
+
+1.  Are you from the United States ?    No, I'm from Chile
+2.  Is your teacher from Canada ?       No, actually I don't know who is the person wish to have the credit for this contribution.
+3.  Is your English class in the morning ?  No, this class does not have a set schedule.
+4.  Are you free after class ?  Yes, I'm free after this class.
+
+*/
