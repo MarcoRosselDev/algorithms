@@ -24,13 +24,13 @@ A   Complete these sentences. Then tell a partner about yourself.
 3.  A:  _What's_ her first name ?
     B:  It's Caroline.
 
-4.  A:  _What's name_ the two students over there ?
+4.  A:  _who are_ the two students over there ?
     B:  Their names are Mason and Ava.
 
-5.  A:
-    B:
+5.  A:  _Where are_ they from ?
+    B:  They're from Vanconuver.
 
-6.  A:
-    B:
+6.  A:  _What are_ they _like_ ?
+    B:  They're shy, but very friendly.
 
 */
