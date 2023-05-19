@@ -23,3 +23,12 @@ Gets home at . . .      8 am
 Goes to bed at . . .    8:30 am
 
 */
+
+/* 12   READING
+
+1. . . . to help people get it?                         Lisa
+2. . . . to understand other people?                    Nico
+3. . . . to make things you can wear?                   Carla
+4. . . . to tell other people about their company?      Danny
+
+*/
