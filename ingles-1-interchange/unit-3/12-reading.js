@@ -1,0 +1,10 @@
+/* B Read the blog. Find the item and write its name. Then write
+the number of the paragraph where you i nd the answers.
+Find something 
+
+a.  that you can wear.                  Expensive sneakers.
+b.  that you use with your laptop.      Digital pet rock.
+c.  that saves you a lot of time.       Stand in line for you.
+d.  that is huge.                       Pice of the Moon.
+
+*/
