@@ -44,4 +44,20 @@ never
 
 3.  A:  Do you often lift wights at the gym?
     B:  No, I lift wights hardly ever.
+
+4.  A:  Do you always exercise on Sundays?
+    B:  No, I never exercise on Sundays.
+
+5.  A:  What do you usually do after class?
+    B:  I go out with my classmates about three times a week.
+
+6.  A:  Do you usually go to the movies?
+    B:  Yes, I go to the movies once a week.
+
+7.  A:  Do you ever go bike riding?
+    B:  No, I hardly ever ride a bike.
+
+8.  A:  Do you sometimes walk to school?
+    B:  Sure. I walk to school five days a week.
+
 */
