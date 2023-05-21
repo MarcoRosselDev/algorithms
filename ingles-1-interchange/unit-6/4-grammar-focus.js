@@ -31,3 +31,17 @@ almost never
 never
 
 */
+
+/* A    Put the adverbs in the correct place.
+        Sometimes there is more than one correct answer.
+        Then practice with a partner.
+        
+1.  A:  Do you ever play sports?
+    B:  Sure. I play soccer twice a week.
+
+2.  A:  What do you usually do on Saturday mornings?
+    B:  Nothing much. I almost always sleep until noon.
+
+3.  A:  Do you often lift wights at the gym?
+    B:  No, I lift wights hardly ever.
+*/
