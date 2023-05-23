@@ -1,0 +1,10 @@
+/* Verbos en los que el pasado y el participio son iguales
+
+Present     Pasado simple   Participio  Traduccion
+
+Bleed       Bled            Bled        Sangrar
+Breed       Bred            Bred        Criar
+Feed        Fed             Fed         Alimentar
+Meet        Met             Met         Encontrarse
+
+*/
