@@ -1,0 +1,24 @@
+/* A    WORD POWER
+
+A   Pair work
+    Find two other word or phrases from the list that usually go with each verb.
+    Then add one more word or phrase to each verb.
+
+    a lot of fun
+    the bed
+    dancing
+    chores
+    a good time 
+    the laundry
+    shopping
+    a trip
+    a bike ride 
+    a video
+
+    do      my homework     chores          the laundry
+    go      online          dancing         shopping
+    have    a party         a lot of fun    a good time
+    make    a phone call    a video         the bed
+    take    a day off       a trip          a bike ride          
+
+*/
