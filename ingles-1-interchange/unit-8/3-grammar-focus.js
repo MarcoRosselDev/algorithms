@@ -23,3 +23,12 @@ between
 en the corner of
 
 */
+
+/* A    Look at the map below. Write questions about these places.
+
+an  ATM
+
+Are there any ATM around here?
+    No, thre aren't any ATM around here.
+
+*/
