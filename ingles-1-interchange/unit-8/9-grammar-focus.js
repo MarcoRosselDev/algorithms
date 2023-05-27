@@ -26,4 +26,37 @@ is there much crime?
 How much crime is there?
     There's a lot of crime
 
+144
+
+*/
+
+/* A    Write answers to these questions about your neighborhood.
+Then practice with a partner.
+
+1.  Is there much parking?
+        Hay mucho estacionamiento?
+
+        No, there isn't too much parking over here.
+            No, no hay mucho estacionamiento por aquii.
+
+
+2.  Are there many apartment buildings?
+        Hay muchos edificion de apartamentos?
+
+        No, thre aren't any apartment buildings over here.
+            No, no hay ningun adificio de apartamentos por aqui.
+
+
+3.  How much traffic is there?
+        Cuanto trafico hay?
+
+        there isn't too much trafic over here.
+            No, hay demasiado trafico por aqui.
+
+4.  How many drugstores are there?
+5.  Is there much noise?
+6.  Are there many shopping malls?
+7.  Is there much pollution?
+8.  How many fast-food restaurants are there?
+
 */
