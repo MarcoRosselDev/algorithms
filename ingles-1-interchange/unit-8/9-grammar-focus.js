@@ -54,7 +54,18 @@ Then practice with a partner.
             No, hay demasiado trafico por aqui.
 
 4.  How many drugstores are there?
+        Cuantas farmacias hay?
+
+        There is just one drugsotre over here.
+            Solo hay una farmacia por aqui.
+
+
 5.  Is there much noise?
+        Hay mucho ruido?
+
+        Yes, there is too much noise over here.
+            Si, hay demasiado ruido por aqui.
+
 6.  Are there many shopping malls?
 7.  Is there much pollution?
 8.  How many fast-food restaurants are there?
