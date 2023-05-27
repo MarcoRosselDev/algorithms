@@ -67,7 +67,20 @@ Then practice with a partner.
             Si, hay demasiado ruido por aqui.
 
 6.  Are there many shopping malls?
+        Hay muchos centros comerciales?
+        
+        No, thre aren't any shopping malls.
+
 7.  Is there much pollution?
+        hay mucha contaminacion?
+
+        Yes, there is too much pollution over here.
+        Si, hay demasiada contaminacion por aqui.
+
 8.  How many fast-food restaurants are there?
+        cuantos restorants de comida rapida hay?
+
+        There aren't any fast-food restaurants.
+            No hay ningun restaurante de comida rapida.
 
 */
