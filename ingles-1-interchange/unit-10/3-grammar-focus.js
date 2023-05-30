@@ -2,7 +2,7 @@
 
 Present perfect;    already, yet
 
-The present perfect si formed with the verb have + the past particile.
+The present perfect is formed with the verb have + the past participle.
 
 Have you been to a jazz club?
     Has estado en un club de jazz?
@@ -69,6 +69,13 @@ Then practice with a partner.
 3.  A   How many movies have you been to month
     B   Actually, I haven't seen any yet.
 
-4.  A   
+4.  A   Have you been to any interesting parties recently?
+    B   No, I haven't gone to any parties for quite a while.
+
+5.  A   Have you cooked any food this week?
+    B   Yes, I have already made dinner twice. 
+
+6.  A   How many times have you gone out to eat this week?
+    B   I've eaten at fast-food restaurants a couple of times.
 
 */
