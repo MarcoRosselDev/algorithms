@@ -36,3 +36,10 @@ Have you ever seen an alligator?
     I didn't go to the alligator park last week, so I didn't see any.
         No fui al parque de caimanes la semana pasada, asi que no vi nunguna.
 */
+
+/* A    Complete these conversations. Use the present perfect and simple past of the verbs given and short answers.
+
+1.  A   Have you ever sung in public?
+    B   Yes, I have. I sang at a friedn's birthday party.
+
+*/
