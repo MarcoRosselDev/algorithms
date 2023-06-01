@@ -58,4 +58,10 @@ Have you ever seen an alligator?
     B   Yes, I have. I saw Adele at the stadium last year.
             Si. Vi a Adele en el estadio el agnio pasado.
 
+5.  A   Have you ever been late for an important event?
+            Alguna vez has llegado tarde a un evento importante?
+
+    B   No, I haven't. But my sister was two hours late for her wedding!
+            No, no lo he hecho. Pero mi hermana llego dos horas tarde a su boda!
+
 */  
