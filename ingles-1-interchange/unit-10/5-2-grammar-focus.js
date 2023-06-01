@@ -13,4 +13,18 @@ How long have you lived in Orlando?
         He vivido aqui durante tres agnios. Estoy muy feliz aqui.
 
     I've worked at the hotel since last year. I love it there.
+        Trabajo en el hotel desde el agnio pasado. Me encanta alli.
+*/
+
+/* C    Complete these sentences with for or since. Then compare with a partner.
+
+1.  Maura was in Central America for a month last year. ---------------> tiempo espesifico!
+2.  I've been a college student for almost four years.
+3.  Hiroshi has been at work since 6:00 A.M.
+4.  I haven't gone to a party for a long time.
+5.  Sean lived in Bolivia for two years as a kid.
+6.  My parents have been on vacations since Monday.
+7.  Jennifer was engaged to Theo for six months.
+8.  Alex and Brianna have been best friends since high school.
+
 */
