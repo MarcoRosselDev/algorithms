@@ -42,4 +42,20 @@ Have you ever seen an alligator?
 1.  A   Have you ever sung in public?
     B   Yes, I have. I sang at a friedn's birthday party.
 
-*/
+2.  A   Have you ever lost something valuable?
+    B   No, i haven't. But my brother lost his call phone on a trip once.
+            No, no lo he hecho. Pero mi hermano perdio su telefono celular en un biaje una vez.
+
+3.  A   Have you ever gotten a traffic ticket?
+            alguna vez te han puesto una multa de trafico?
+
+    B   Yes, I have. Once I got a ticket and had to pay $50.
+            Si tengo. Una vez me dieron una multa y tuve que pagar $50.
+
+4.  A   Have you ever seen a live concert?
+            Alguna vez has visto un concierto en vivo?
+
+    B   Yes, I have. I saw Adele at the stadium last year.
+            Si. Vi a Adele en el estadio el agnio pasado.
+
+*/  
