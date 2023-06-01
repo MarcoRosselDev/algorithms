@@ -1,0 +1,12 @@
+/* WORD POWER
+
+A   Find two phrases to go with each verb. Write them in the chart.
+
+eat     sushi               octopus
+drink   chocolate soda      ice coffee
+drive   a sports car        a truck
+lose    you phone           your English books
+ride    a bike              a motorcycle
+wear    a uniform           a costume
+
+*/
