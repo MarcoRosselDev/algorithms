@@ -24,3 +24,17 @@ New York is too noisy, and it's too crowded for me.
         c.  It's really nice in the summer, but it's too cold for me in the winter.
 
 */
+
+/* B    Chosse the correct conjuntions and rewrite the sentences.
+
+1.  Kyoto is very nice and everyone is extremely friendly.
+
+2.  The streets are crowded during the day. They're very quiet at night, though.
+
+3.  The weather is nice. Summers gat pretty hot, however.
+
+4.  you can rent a bicycle, but it's expensive.
+
+5.  It's an amazing city, and I love to go there.
+
+*/
