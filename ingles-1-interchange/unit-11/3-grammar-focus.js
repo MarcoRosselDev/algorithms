@@ -38,3 +38,14 @@ New York is too noisy, and it's too crowded for me.
 5.  It's an amazing city, and I love to go there.
 
 */
+
+/* C    Describe three cities or towns in your contry.
+State two positive features and one negative feature for each. 
+
+The weather in Concepcion is nice and the people are friendly, but it's stressful.
+
+Valdivia is a really beautiful city and it's quiet, but it's a little boring.
+
+Temuco has a lot of things to do and it's very interesting, but it's too polluted.
+
+*/
