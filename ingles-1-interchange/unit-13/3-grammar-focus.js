@@ -44,3 +44,20 @@ Neither do I.   Yo tampoco.
 I don't either. Yo tampoco.
 
 */
+
+/* Disagree
+
+Oh, I'm not.
+    Oh, no lo soy.
+Really? I can't.
+    En realidad? No puedo.
+Oh, I don't (like it very much)
+    Oh, no me gusta(me gusta mucho)
+Really? I am.
+    En realidad? Soy.
+Oh, I love it!
+    !Oh, me encanta! 
+Oh, I like it a lot.
+    Ay, me gusta mucho.
+
+*/
