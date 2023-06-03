@@ -22,3 +22,25 @@ I don't like slty food.
     No me gusta la comida salada.
 
 */
+
+/* Agree
+
+So am I.        Yo tambien.
+I am too.       yo tambien.
+
+So can I        Asi que puedo.
+I can, too.     Yo puedo tambien.
+
+So do I.        Yo tambien.
+I do, too.      Yo tambien.
+
+Neither am I    Yo tampoco.
+I'm not either. Yo tampoco.
+
+Neither can I.  Tambien puedo.
+I can't either. Yo tampoco puedo.
+
+Neither do I.   Yo tampoco.
+I don't either. Yo tampoco.
+
+*/
