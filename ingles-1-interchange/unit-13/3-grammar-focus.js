@@ -61,3 +61,38 @@ Oh, I like it a lot.
     Ay, me gusta mucho.
 
 */
+
+/* A    Write responses to show agreement with these statements.
+        Then compare with a partner.
+
+1.  I'm not crazy about Italian food.
+        Neither am I.    /   I'm not either.
+
+2.  I can eat any king of food.
+        So can I.        /   I can't too
+
+3.  I think Indian food is delicious.
+        So do I.    /   I do, too.
+
+4.  I can't stand greasy food.
+        Nither can I.  /   I can't either.
+
+5.  I don't like salty food.
+        Neither do I.   /   I don't either.
+
+6.  I'm in the mood for something spiciy.
+        So am I.    /   I am, too.
+
+7.  I'm tired of fast food.
+        So am I.    /   I am, too.
+
+8.  I don't enjoy rich food very much.
+        Neither do I.   /   I don't either.
+
+9.  I always eat healthy food.
+        So do I.        /   I do, too.
+
+10. I can't eat bland food.
+        Neither can I.  /   I can't either.
+
+*/
