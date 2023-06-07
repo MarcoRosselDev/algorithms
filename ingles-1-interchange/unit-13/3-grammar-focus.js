@@ -96,3 +96,17 @@ Oh, I like it a lot.
         Neither can I.  /   I can't either.
 
 */
+
+/* C    Write statements about these things.
+
+1.  two kind of food you like.
+2.  two kind of food you can't stand.
+3.  two kind of food you would like to eat today.
+
+answers
+
+1.  I like salty and healthy food
+2.  I can't stand spicy and greasy food.
+3.  I would like to eat something salty or bland food.
+
+*/
