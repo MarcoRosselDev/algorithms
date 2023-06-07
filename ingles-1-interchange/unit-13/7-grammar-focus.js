@@ -27,3 +27,24 @@ Would you like anything else?           quieres algo mas?
 
 
 */
+
+/* Complete the conversation.
+Then practice with a partner.
+
+Server:     What would you like order?
+Customer:   I'll/will have the spicy fish.
+Server:     Would you like salad or potatoes?
+Customer:   I'd/would like potatoes, please.
+Server:     OK. And would you like anything to drink?
+Customer:   I'll/will just have a glass of water.
+Server:     Would you like anything else?
+Customer:   No, that's all for now, thanks.
+
+Later.
+
+Server:     Would you like dessert?
+Customer:   Yes, I'd/would like ice cream.
+Server:     What flavor would you like?
+Customer:   Hmmm. I'll/will have mint chocolate chip, please.
+
+*/
