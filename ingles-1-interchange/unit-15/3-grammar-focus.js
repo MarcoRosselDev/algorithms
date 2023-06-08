@@ -27,3 +27,16 @@ this weekend
 next week
 
 */
+
+/* A    Complete the inventions in column A with the present continuous used as future.
+Complete the responses inclomun B with be going to.
+
+A
+
+1.  What Are you doing tonight? Would you like to go out?
+
+2.  Are you doing anything on Friday night? Do you want to see a movie?
+
+3.  
+
+*/
