@@ -18,3 +18,25 @@ Messages with a request: ask-------------------------------
 Could you ask her to take a picutre of the board.
 Would you ask her to take a picutre of the board.    ----> more formal
 */
+
+/* A    Unscramble these messages. Then compare with a partner.
+
+1.  tell | that | is | please | Haru | the barbecue | on Saturday |
+    please tell Haru that the barbecue is on Saturday.
+
+2.  call me | at | 4:00 | you | Caitlin | could | ask | to |
+    Could you ask Caitlin to call me at 4:00 ?
+    
+3.  is | that | Mia | tonight | could | you | the dance performance | tell |
+    Could you tell Mia that the dance performance is tonight?
+
+4.  tell | is | Casey | in the park | would | you | that | the picnic |
+    Would you tell Casey that the picnic is in the park?
+
+5.  meet me | to | you | would | Maika | ask | at the stadium |
+    Would you ask Maika to meet me at the stadium?
+
+6.  ask | to the rock concert | please | bring | Garrett | to | the tickets |
+    Please ask Garrett to bring the tickets to the rock concert
+
+*/
