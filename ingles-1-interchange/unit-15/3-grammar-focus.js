@@ -37,6 +37,8 @@ A
 
 2.  Are you doing anything on Friday night? Do you want to see a movie?
 
-3.  
+3.  We're having friends over for a barbacue on Sunday. Would you and your parents like to come?
+
+4.  Are you staying in town next weekend? Do you want to go for a hike?
 
 */
