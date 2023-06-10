@@ -28,3 +28,21 @@ Don't confuse contractions of be with possessive adjectives:
     They're in my English class. It's a big class.
 
 */
+
+/* 2    Wh-questions with be
+
+Use What to ask about things: What's in your bag? Where to ask about places:
+Where's your friend from? Use Who to ask about people: Who's your teacher?
+Use What ... like? to ask for a description: What's your friend like?
+
+Match the questions with the answers.
+
+1.  Who's that?                     f.  That's our new classmate.
+2.  Where's your teacher?           e.  He's in class.
+3.  What are your friends like?     a.  They're really nice.
+4.  Where's she from?               b.  She's from South Korea.
+5.  Who are they?                   c.  They're my brother and sister.
+6.  What's his name?                d.  His name is Daniel.
+
+
+*/
