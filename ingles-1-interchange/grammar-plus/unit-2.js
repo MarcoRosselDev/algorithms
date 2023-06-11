@@ -72,3 +72,23 @@ Use on with days:
     She has class on Mondays.
 
 */
+
+
+/* Complete the conversation with time expressions from the box.
+You can use some words more than once.
+
+at | early=temprano | in | on | until=hasta
+
+A:  How's your new job?
+B:  I love it, but the hours are difficult. 
+    I start work at 6:30 a.m., and  I work until 3:30.
+A:  That's interesting! I work the same hours, but I work at night.
+    I start at 6:30 in the evening and finish at 3:30 in the morning.
+B:  Wow! What time do you get up?
+A:  Well, I get home at 4:30 and go to bed at 5:30.
+    And I sleep until 2:00. But I only work on weekends, so it's OK.
+    What about you?
+B:  Oh, I work on Monday, Wednesday, and Friday. And I get up
+    early-around 5:00 a.m.
+
+*/
