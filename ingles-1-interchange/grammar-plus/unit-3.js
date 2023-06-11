@@ -62,3 +62,21 @@ Use one to replace a singular noun:
         It's only $9.99.
 
 */
+
+// Preferences; comparisons with adjectives
+
+// For adjectives with one syllabe or adjactive of two syllables endeing in -y,
+// add -er to form the comparative:
+
+// cheap    ----> cheaper.
+// nice     ----> nicer.
+// big      ----> bigger.
+// pretty   ----> prettier.
+
+//----------------------------------------------------------
+
+// For adjectives with two syllables not ending in -y or adjective of three or more
+// syllables, use more + adjective to form the comparative:
+
+//  stylish     =====>  more stylish.
+//  expensive   =====>  more expensive.
