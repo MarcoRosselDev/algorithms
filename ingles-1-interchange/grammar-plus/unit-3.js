@@ -80,3 +80,16 @@ Use one to replace a singular noun:
 
 //  stylish     =====>  more stylish.
 //  expensive   =====>  more expensive.
+
+/* A    Write the comparatives of these adjectives.
+
+1.  attractive  more attractive
+2.  happy       happier
+3.  exciting    more exciting
+4.  friendly    friendlier
+5.  interesting more interesting
+6.  reasonable  more reasonable
+7.  sad         sadder
+8.  warm        warmer
+
+*/
