@@ -93,3 +93,22 @@ Use one to replace a singular noun:
 8.  warm        warmer
 
 */
+
+/* B    Answer the questions. 
+Use the first word in the parentheses in your answer.
+Then write another sentence with the second word.
+
+1.  Which pants do you prefer, the cotton ones or the wool ones? (wool/attractive)
+    I prefer the wool ones. They're more attractive than the cotton ones.
+
+2.  Which ring do you like better, the gold one or the silver one? (silver/interesting)
+    I like the silver one. that looks more interesting than the gold one.
+
+3.  Which one do you prefer, the silk blouse or the cotton bluse? (silk/preety)
+    I prefer the silk bluse one. That're more preetier than the cotton bluse..
+
+4.  Which ones do you like more, the black shoes or the purple ones? (purple/cheap)
+    I like more the purple ones. They look more cheaper than the black ones. 
+
+
+*/
