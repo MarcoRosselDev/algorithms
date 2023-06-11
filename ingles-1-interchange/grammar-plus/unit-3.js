@@ -15,3 +15,50 @@ Use one to replace a singular noun:
     I like the green ones. 
 
 */
+
+// Choose the correct words.
+
+/* 
+
+1.  A: Excuse me. How much are this / these shoes?
+        Excuse me. How much are these shoes?
+
+    B: It’s / They’re $279.
+        They're $279.
+
+    A: And how much is this / that bag over there?
+        And how much is that bag over there?        
+
+    B: It’s / They’re only $129.
+        It's only $129
+    
+    A: And are the two gray one / ones $129, too?
+        And are the two gray ones $129, too?
+
+    B: No. That / Those are only $119.
+        No. Those are only $119.
+
+    A: Oh! This / That store is really expensive.
+        Oh! This store is really expensive.
+
+2.  A: Can I help you?
+
+    B: Yes, please. I really like these / those jeans over there. How much is it / are they?
+        Yes, please. I really like those jeans over there. How much are they?
+
+    A: Which one / ones? Do you mean this / these?
+        Which ones? Do you mean these?
+
+    B: No, the black one / ones.
+        No, the black ones.
+
+    A: Let me look. Oh, it’s / they’re $35.99.
+        Let me look. Oh, they're $35.99.
+
+    B: That’s not bad. And how much is this / that sweater here?
+        That's not bad. And how much is this sweater here?
+
+    A: It’s / They’re only $9.99.
+        It's only $9.99.
+
+*/
