@@ -56,3 +56,19 @@ const y = 'I/you/they/we';
 // verbs with y use do.
 
 // don't add -s at the verb.
+
+
+/* 2.   Time expressions---------> in | at | on
+
+Use in with the morining/afternoon/evening.
+    Use at with:    He goes to school in the afternoon and works at night.
+            BUT:    He goes to school in the afternoon and works on Friday night.
+
+Use at with click times:
+    She gets up at 7:00.
+
+Use on with days:
+    He goes up early on weekdays. 
+    She has class on Mondays.
+
+*/
