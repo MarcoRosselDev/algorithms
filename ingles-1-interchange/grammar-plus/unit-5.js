@@ -47,6 +47,35 @@ Then complete the responses with short answers or the verbs in the box.
 
         My friend and I're studying photography and Japanese.
         We like our classes a lot.
-        
+*/
+
+/* 2    Quantifiers
+
+Use alot of, all, few, nearly all before plural nouns:
+    A lot of/all/few/nearly all families are small.
+Use no one before a verb:
+    No one gets married before the age of 18.
+
+Nearly all means "almost all."
+
+-------------------------------------------------------
+Read the sentences about the small town of Monreo.
+Rewrite the sentences using the quantifiers in the box.
+Use each quantifier only once.
+
+1.  In Monroe, 0% of the people drive before the age of 16.
+    In Monroe, no one drives before the age of 16.
+
+2.  Ninetry-eight percent of students finish high school.
+    Nearly all of students fidish high school.
+
+3.  One hundred percent of children start school by the age of six.
+    All children start school by the age of six.
+
+4.  Eighty-nine percent of couples have more than one child.
+    A lot of couples have more than one child.
+
+5.  Five percent of families have more than fout children.
+    Few families have more than four children.
 
 */
