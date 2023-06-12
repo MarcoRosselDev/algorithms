@@ -56,3 +56,26 @@ Object pronouns (me, him, her, it, us, them) usually come after a verb:
 5.  Beth looks great in green. It's a really good color for her.
 
 */
+
+// 2    Would: verb + to + verb
+
+// Don't use a contraction in affirmative short answers with would:
+//      Would you like to go to the game?
+//      Yes, I yould,
+//      NOT: Yes, I'd.
+
+/* Unscramble the questions and answers to complete the conversation.
+
+A:  tonight | to see | would you like | with me | a movie |
+    would you like to see a movie with me tonight?
+
+B:  I would.| yes,| what | to see | would you like |
+    Yes, I would. What would you like to see? 
+
+A:  the new Matt Damon movie | to see | I’d like |
+    I'd like to see the new Matt Damon movie.
+
+B:  OK.| That’s a great idea!
+    Ok. That's a great idea!
+
+ */
