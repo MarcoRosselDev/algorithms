@@ -41,3 +41,31 @@ Then complete the answers with the words in parentheses.
     A: I never go to the gym. (never)
 
 */
+
+/* 2    Questions with how: short answers
+
+
+Don't confuse good and well. Use the adjective good with be and the adverb well
+with other verbs:
+    How good are you at soccer?
+    How weel do you play soccer?
+
+    Es importante recordar que "good" describe tanto una persona como una cosa,
+    pero well solo se utiliza cuando describe una cosa (no una persona).
+    Por ejemplo:
+        He's a good cook.   (es un buen cocinero)
+        He cooks well.      (concina bien)
+        I'm good. vs I'm well.
+
+
+Complete the questions with How and a word from the box.
+Then match the questions and the answers.
+
+[good, long, often, well]
+
+1.  How often do you lift weights?          c.Not very often. I prefer martial arts.
+2.  How well do you play basketball?        a.Not very well, but I love it.
+3.  How good are you at valleyball?         d.Pretty good. but I hate it.
+4.  How long do you spend at the gym?       b.About six hours a week
+
+*/
