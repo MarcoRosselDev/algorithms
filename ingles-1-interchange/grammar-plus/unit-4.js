@@ -23,5 +23,26 @@ Subject pronouns (I, you , he, she, it, we, they) usually come before a verb.
 Object pronouns (me, him, her, it, us, them) usually come after a verb:
     He likes her, but she doesn't like him.
 
+*/
+
+/* A    Complete the questions and short answers.
+
+1.  A: Do you play (play) a musical instrument?
+    B: Yes, I do . I play the guitar.
+
+2.  A: Does John like (like) Carrie Underwood?
+    B: No, He doesn't. John doesn’t like country music.
+
+3.  A: Does Lisa like (like) talk shows?
+    B: Yes,she does . Lisa is a big fan of them.
+
+4.  A: Do you watch (watch) the news on TV?
+    B: Yes,we do. Kevin and I watch the news every night.
+
+5.  A: Do you like (like) hip-hop?
+    B: No, I don't. But I love R&B.
+
+6.  A: Do your parents listen to (listen to) jazz?
+    B: No, they don't. But my parents listen to a lot of classical music.
 
 */
