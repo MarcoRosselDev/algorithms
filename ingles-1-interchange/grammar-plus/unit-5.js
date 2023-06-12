@@ -23,26 +23,30 @@ Then complete the responses with short answers or the verbs in the box.
 [live, study, take, teach, work]
 
 1.  A:  (what / your sister / do / these days) 
-        What’s your sister doing these days?
+        What is your sister doing these days?
 
     B:  She’s teaching English.
 
     A:  Really? (she / live / abroad)
-        Really? Is she living abroad?
+        Really? She is living abroad?
 
     B:  Yes, she is . She's living in South Korea.
+        Yes, she is. She's living in South Korea.
 
 2.  A:  (how / you / spend / your summer)
-        How are you spending you summer?
+        How are you spending your summer?
 
     B:  I part-time. I two classes also.
         I'm working part-time. I'm taking two classes also.
 
     A:  (what / you / take)
-        What are you takin?
+        What are you taking?
 
-    B:  My friend and I photography and Japanese. We like our classes a lot.
-        My friend and I are stydying photography and Japanes.
+    B:  My friend and I photography and Japanese. 
         We like our classes a lot.
+
+        My friend and I're studying photography and Japanese.
+        We like our classes a lot.
+        
 
 */
