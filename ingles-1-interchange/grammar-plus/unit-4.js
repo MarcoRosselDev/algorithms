@@ -46,3 +46,13 @@ Object pronouns (me, him, her, it, us, them) usually come after a verb:
     B: No, they don't. But my parents listen to a lot of classical music.
 
 */
+
+/* B    Complete the sentences with object pronouns.
+
+1.  We don't listen to hip-hop because we really don't like it.
+2.  We love your voice. Please sing for us.
+3.  These sunglasses are great. Do you like them?
+4.  Who is that man? Do you know him?
+5.  Beth looks great in green. It's a really good color for her.
+
+*/
