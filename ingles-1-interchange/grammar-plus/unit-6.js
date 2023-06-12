@@ -19,5 +19,25 @@ Some frequency expressions usually come at the end of a sentence:
     every day, once a week, twice a month, three times a year:
         Do you exercise every day?
         I exercise three times a week.
+*/
+
+/* Put the words in order to make questions.
+Then complete the answers with the words in parentheses.
+
+1. you what weekends usually do do on
+    Q: What do you usually do on weekends?
+    A: I often play sports (often / play sports)
+2. ever | you | go jogging | do | with a friend
+    Q:  Do you ever go jogging with a friend?
+    A: No, I always go jogging alone (always / alone)
+3. you play do basketball how often
+    Q: how often do you play basketball?
+    A: I play four times a week. (four times a week)
+4. do you what in the evening usually do
+    Q: what do you usually do in the evening?
+    A: My family and I -almost always go online.- (almost always / go online)
+5. go how often you do to the gym
+    Q: how often do you go to the gym?
+    A: I never go to the gym. (never)
 
 */
