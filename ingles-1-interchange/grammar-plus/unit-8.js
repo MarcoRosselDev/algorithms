@@ -53,3 +53,20 @@ Use How much with noncount nouns:
     How much traffic is there?
 
 */
+
+/* A    Complete the conversations.
+Choose the correct words.
+
+1.  a.  Is there much traffic in your city?
+    b.  Well, there's a little.
+
+2.  a.  Are there many Wi-fi hotspots around here?
+    b.  No, there aren't many.
+
+3.  a.  How many restaurants are there in your neighborhood?
+    b.  There are a lot.
+
+4.  a.  How much noise is there in your city?
+    b.  There's none. It's very quiet.
+
+*/
