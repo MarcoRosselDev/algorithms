@@ -70,3 +70,20 @@ Choose the correct words.
     b.  There's none. It's very quiet.
 
 */
+
+/* B    Write questions with the words in parentheses.
+Use much or many.
+
+1.  a.  Is there much pollution in your neighborhood?
+    b.  No, there isn't. My neighborhood is very clean.
+
+2.  a.  Are there many parks in your neighborhood?
+    b.  Yes, there are. They're grat for families.
+
+3.  a.  Is there much crime in your neighborhood?
+    b.  There's none. It's a very safe part of the city.
+
+4.  a.  Are there many laundromats in your naighborhood?
+    b.  There aren't any. A lot of people have their own washing machines.
+
+*/
