@@ -51,3 +51,31 @@ a.  old | he | how | is
 b.  He's 26 years hold, two years older than me.
 
 */
+
+/* 2.   Modifiers with participles and prepositions
+
+Don't use a form of be in modifier with participles:
+    Sylvia is the woman standing near the window.
+        NOT----> Sylvia is the woma is standing near the window.
+
+Rewrite the conversation.
+Use the words in parenteses and one or ones.
+
+1.  a.  Who's Carla?
+    a.  which one is Carla? (which)
+
+    b.  She's the woman in the red dress.
+    b.  She's the one wearing a red dress.(wearing)
+
+2.  a.  Who are your neighbors?
+    a.  which ones are your neighbors?(which)
+
+    b.  They're the people with the baby.
+    b.  They're the ones walking whit the baby.(walking)
+
+3.  a.  Who's Jeff?
+    a.  which one is Jeff?(which)
+
+    b.  He's the man wearing glasses.(which)
+    b.  He's the one with glasses.(with)
+*/
