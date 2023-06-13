@@ -30,3 +30,26 @@ Choose the correct words.
     b.  Yes, there's a good one in the shopping center.
 
 */
+
+/* 2    Quantifiers;
+        How many and how much
+
+Use a lot with both count and noncount nouns:
+    Are there many traffic lights on First Avenue?
+        Yes, there are a lot.
+    Is there much traffic?
+        Yes, there's a lot.
+
+Use any -not none- in negative statements:
+    How much traffic is there on your street?
+        There isn't any.
+        =   There's none.
+        NOT = There isn't none.
+
+Use How many with count nouns:
+    How many books do you have?
+
+Use How much with noncount nouns:
+    How much traffic is there?
+
+*/
