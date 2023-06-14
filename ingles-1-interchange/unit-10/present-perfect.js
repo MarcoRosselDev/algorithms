@@ -36,5 +36,10 @@ Then practice with a partenr.
 4.  a.  Have you been to any interesting parties recently?
     b.  No, I haven't gone to any paties for quite a while.
 
+5.  a.  have you cooked any food this week? (cook)
+    b.  Yes, I've already made dinner twice.
+
+6.  a.  How many times have you gone out to eat this week?
+    b.  I've eaten at fast-food restaurants a couple of time.
 
 */
