@@ -31,5 +31,10 @@ Use the present perfect and simple past of verbs given and short answers.
 3.  a.  Have you ever gotten a traffic ticket?
     b.  Yes, I have. Once I got a ticket and had to pay $50.
 
+4.  a.  Have you ever seen a live concert?
+    b.  Yes, I have. I saw Adele at the stadium last year.
+    
+5.  a.  Have you ever been late for an important event?
+    b.  No, I haven't. But my sister was two hours late for her wedding!
 
 */
