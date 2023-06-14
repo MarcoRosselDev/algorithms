@@ -18,3 +18,18 @@ Have you ever seen an alligator?
     I didn't see any.
 
 */
+
+/* A    Complete these conversations.
+Use the present perfect and simple past of verbs given and short answers.
+
+1.  a.  Have you ever sung in public?
+    b.  Yes, I've. I've sang at a friend's birthday party.
+
+2.  a.  Have you ever lost something valuable?
+    b.  No, I haven't. But my brother lost his cell phone on a trip once.
+
+3.  a.  Have you ever gotten a traffic ticket?
+    b.  Yes, I have. Once I got a ticket and had to pay $50.
+
+
+*/
