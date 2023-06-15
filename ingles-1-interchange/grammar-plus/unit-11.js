@@ -31,4 +31,12 @@ Use but, though, and however for contrasting information:
     The food is delicious. It's expensive though.
     The food is delicious. It's expensive however.
 
+Choose the correct word.
+
+1.  Spring in my city is pretty nice, but it gets extremely hot in summer.
+2.  There are some grat museums. They're always crowded, however.
+3.  There are a lot of interesting stores, and many of them aren't expensive.
+4.  There are many amazing restaurants, but some of them are closed in August.
+5.  My city is a great place to visit. Don't come in summer, though!
+
 */
