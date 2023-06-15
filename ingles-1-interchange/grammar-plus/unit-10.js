@@ -61,3 +61,19 @@ and short answers.
     b.  Oh, yes - it's excellent!
 
 */
+
+/* 3.   For and since
+
+Use for + a period of time to describe how long a present condition has been true:
+    We've been in New York for two months. 
+
+Use since + a point in time to describe when a present condition started:
+    We've been here since August.
+
+Choose the correct word.
+
+1.  I bought my car almost 10 years ago. I've had it for almost 10 years.
+2.  The Carters moved to Seattle six months ago. They've lived there for six months.
+3.  I've wanted to see that movie for a long time. It's been in theaters since March.
+
+*/
