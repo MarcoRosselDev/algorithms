@@ -40,3 +40,19 @@ Choose the correct word.
 5.  My city is a great place to visit. Don't come in summer, though!
 
 */
+
+/* 3.   Modal verbs can and should
+
+Use can to talk about thing that are possible:
+    Where can I get some nice souvenirs?
+
+Use should to suggest things that are good to do.
+    You should try the local restaurants.
+
+Use the base form with can and should - not the infinitive:
+    Where con I get some nice souvenirs?
+    NOT:    Where can I to get...?
+    You should try the local restaurants.
+    NOT:    You should to try...
+
+*/
