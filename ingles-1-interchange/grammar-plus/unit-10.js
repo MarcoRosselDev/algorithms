@@ -16,8 +16,14 @@ Use already in affirmative statements:
 /* A    Complete the conversations with the present perfect
 of the verbs in parentheses and short answers.
 
-1.  a.  Has Leslie called (call) you lately?
-    b.  No, she don't called (not call) me, but I've gotten/(have/has) got some
-        emails from her.
+1.  a.  Has leslie called you lately?
+    b.  No, she hasen't called me, but I've gotten some emails from her.
+
+2.  a.  Have you and Jan been lunch yet?
+    b.  No, we haven't. We're thinking of going to Tony's. have you tried it yet?
+        Come with us.
+    a.  Thanks. I didn't eaten  there yet, but I heard it's very good.
+    b.  Oh, yes -it's excellent!
+
 
 */
