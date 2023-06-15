@@ -20,3 +20,15 @@ Add a or an where it's necessary to complete the sentences.
 5.  London has a really busy airport.
 
 */
+
+/* 2    Conjunctions
+
+Use and for additional information:
+    The food is delicious, and it's not expensive.
+
+Use but, though, and however for contrasting information:
+    The food is delicious, but it's very expensive.
+    The food is delicious. It's expensive though.
+    The food is delicious. It's expensive however.
+
+*/
