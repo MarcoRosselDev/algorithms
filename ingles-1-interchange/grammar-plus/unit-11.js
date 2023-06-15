@@ -55,4 +55,18 @@ Use the base form with can and should - not the infinitive:
     You should try the local restaurants.
     NOT:    You should to try...
 
+Complete the conversation with can, can't, should, or shouldn't.
+
+a.  I can't decirde where to go on vacation.
+    Should I go to Costa Rica or Howaii?
+b.  You should definitely visit Costa Rica.
+a.  Really? What can I see there?
+b.  Well, San Jose is an exciting city. You shouldn't miss the Museum del Oro.
+    That's the gold museum, and you can see beautiful animals made of gold.
+a.  OK. What else can I do there?
+b.  Well, you shouldn't visit the museum on Mondays.
+    It's closed then. But you should definitely visit the rain forest.
+    It's amazing!
+
+
 */
