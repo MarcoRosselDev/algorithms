@@ -38,6 +38,26 @@ B   Look at things Matt said.
 
 /* 2    Present perfect vs. simple past
 
-Don't
+Don't mention a specific time with the present perfect:
+    I've been to a jazz club.
+
+Use the simple past to say when a past action happened:
+    I went to a jazz club last night.
+
+Complete the conversation using the present perfect or the simple past of the verbs in parentheses
+and short answers.
+
+1.  a.  Did you see the game last night? I really enjoyed it.
+    b.  Yes, I did. It was an amazing game. Have you ever gone to a game?
+
+    a.  No, I haven't. I've never been to the stadium.
+        But, I'd love to go!
+    b.  Maybe we can go to a geme next year.
+
+2.  a.  Have you ever been to Franco's Restaurant?
+    b.  Yes, I have. My friend and I ate there last weekend.
+        How about you?
+    a.  No, I haven't. But I've heard it's very good.
+    b.  Oh, yes - it's excellent!
 
 */
