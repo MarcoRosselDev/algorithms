@@ -28,3 +28,29 @@ Add not when necessary.
     When you feel stressed, it's a good idea not to drink a lot of coffee.
 
 */
+
+/* 2    Modal verbs can, could, and may for requests;   suggestions
+
+In requests, can, could, and may have the same meaning.
+May is a little more formal than can and could.
+
+Number the lines of the conversation.
+Then write the conversation below.
+
+.   Hi. Yes, please. What do you suggest for itchy skin?
+.   Here you are. Can I help you with anything else?
+.   sure I can. You should see a dentist!
+.   Hello. May I help you?
+.   You should try this lotion.
+.   Yes. Can you suggest something for a toothache?
+.   OK. And could I have a bottle of pain medicine?
+
+a.  Hello. May I help you?
+b.  Hi. Yes, please. What do you suggest for itchy skin?
+a.  You should try this lotion.
+b.  OK. And could I have a bottle of pain medicine?
+a.  Here you are. Can I help you with anything else?
+b.  Yes, Can you suggest something for a toothache?
+a.  Sure I can. You should see a dentist!
+
+*/
