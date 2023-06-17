@@ -35,7 +35,5 @@ Server:     Would you like dessert?
 Customer:   Yes, I'd like ice cream.
 Server:     What flavor would you like?
 Customer:   Hmm. I'll have mint chocolate chip, please.
-Server: 
-Customer:
 
 */
