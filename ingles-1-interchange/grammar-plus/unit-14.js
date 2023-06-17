@@ -19,3 +19,28 @@ You can use a comparative or superlative without repeating the noun:
     Angel Falls is the highest.
 
 */
+
+/* Write questions with the words.
+Then look at the underlined words, and write the answers.
+
+1.  Which desert | dry | the Sahara or the Atacama?
+    Which desert is drier, the Sahara or the Atacama?
+    The Atacama is drier than the Sahara.
+
+2.  Which island | large | Greenland, New Guinea, or Honshu?
+    Which island is the largest: Greenland, New Guinea, or Honshu?
+    Greenland is the largest island in the world.
+
+3.  Which island | small | New Guinea or Honshu?
+    Which island is smaller, New Guinea or Honshu?
+    Honshu is smaller than New Guinea.
+
+4.  Which U.S. city | large | Los Angeles, Chicago, or New York
+    Which U.S. city is the largest: Los Angeles, Chicago, or New York.
+    New York is the largest city in U.S.
+
+5.  Which ocean | deep | the Atlantic or the Pacific?
+    Which ocean is deeper, the Atlantic or the Pacific?
+    The Pacific is deeper than the Atlantic.
+
+*/
