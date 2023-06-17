@@ -55,3 +55,23 @@ With so and neither, the verb comes before the subject:
     b.  I can, too./So can I.
 
 */
+
+/* 2    Modal verbs would and will for requests
+
+Don't confuse like and would like.
+Would like means 'want'.
+
+You can also use I'll have... when ordering in a restaurant to mean I will have...
+
+Complete the conversation with would, I'd, or I'll.
+
+a.  Would you like to order now?
+b.  Yes, please. I'll have the shrimp curry.
+a.  Would you like noodles or rice with that?
+b.  Hmmm, I'll have rice.
+a.  And would you like a salad, too?
+b.  No, thanks.
+a.  would you like anything else?
+b.  Yes, I'd like a cup of green tea.
+
+*/
