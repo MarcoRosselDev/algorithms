@@ -20,6 +20,19 @@ With so and neither, the verb comes before the subject:
 
 /* A    Choose the correct response to show that B agrees with A
 
+1.  a.  I'm in the mood for something slaty
+    b.  I am, too.
 
+2.  a.  I can't stand fast food.
+    b.  I can't either.
+
+3.  a.  I really like Korean food.
+    b.  So do I.
+
+4.  a.  I don't eat French food very often.
+    b.  I don't either.
+
+5.  a.  I'm not crazy about chocolate.
+    b.  Neither am I.
 
 */
