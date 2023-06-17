@@ -36,3 +36,22 @@ With so and neither, the verb comes before the subject:
     b.  Neither am I.
 
 */
+
+/* B    Write responses to show agreement with these statements.
+
+1.  a.  I'm not a very good cook.
+    b.  Neither am I./I'm not either.
+
+2.  a.  I love french fries.
+    b.  I love, too./So do I./I do, too.
+
+3.  a.  I can't eat very spicy food.
+    b.  I can't, either./Neither can I./I can't either.
+
+4.  a.  I never eat bland food.
+    b.  I don't either.
+
+5.  a.  I can make delicious desserts.
+    b.  I can, too./So can I.
+
+*/
