@@ -44,3 +44,30 @@ Then look at the underlined words, and write the answers.
     The Pacific is deeper than the Atlantic.
 
 */
+
+/* Use high to describe mountains and waterfalls:
+    How high is Mount Fuji?
+    Angel Falls is 979 meters high.
+
+Use tall to describe buidings:
+    How tall is the Empire State Building?
+    (NOT: How high si the Empire State Building?)
+
+Compare the questions with the phrases in the box.
+There is one extra phrase.
+
+How big | How cold | How deep | How high | how tall
+
+1.  q.  How deep is Lake Baikal?
+    a.  It's 1 642 meters at its deepest point.
+
+2.  q.  How big is Alaska?
+    a.  It's 1 171 900 square kilometers.
+
+3.  q.  How high is Denali?
+    a.  It's 6 190 meters high.
+
+4.  q.  How tall si the Tokyo Skytree?
+    a.  It is 643 meters tall.
+
+*/
