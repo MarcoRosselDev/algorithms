@@ -42,3 +42,10 @@ Use be going to to talk about the future:
     a.  Well, I'm not going to go anywhere this year. I'm going to stay home.
     b.  That's not so bad. Just tink about all the money you're going to save!
 */
+
+/* 2.   Messages with tell and ask
+
+In messages with a request, use the infinitive of the verb:
+    Please ask her to meet me at noon.
+
+*/
