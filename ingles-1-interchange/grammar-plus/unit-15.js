@@ -37,4 +37,8 @@ Use be going to to talk about the future:
         And don't forget an umbrella.
         The weather forecast sys it going to rain tonight.
 
+2.  a.  Where are you going to go on vacation this year?
+    b.  I're going to visit my cousins in Paris. It's going to be great!
+    a.  Well, I'm not going to go anywhere this year. I'm going to stay home.
+    b.  That's not so bad. Just tink about all the money you're going to save!
 */
