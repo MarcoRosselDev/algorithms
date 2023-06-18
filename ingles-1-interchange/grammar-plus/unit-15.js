@@ -48,4 +48,26 @@ Use be going to to talk about the future:
 In messages with a request, use the infinitive of the verb:
     Please ask her to meet me at noon.
 
+In messages with negative infinitives, not goes to in the infinitive:
+    Could you ask him not to be late?
+    NOT:    Could you ask him to don't be late?
+
+*/
+
+/* Read the messages. Ask someone to pass them on.
+Use the words in parentheses.
+
+1.  Message: Patrick-We don't have class tomorrow. (please)
+    Please tell Patrick that we don't have class tomorrow.
+
+2.  Message: Ana - Wait for me after class. (would)
+    Would you ask Ana to wait for me after class ?
+
+3.  Message: Alex - The concert on Saturday has been canceled. (would)
+    Would you tell Alex that the concert on Saturday has been canceled.
+
+4.  Message: Sarah - Don't forget to return the book to the library. (could)
+    Could you tell Sarah not to forget to return the book to the library ?
+
+
 */
