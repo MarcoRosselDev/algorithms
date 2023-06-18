@@ -18,3 +18,21 @@ Messages with a request: ask
     Would you ask her to take a picture of the board?
 
 */
+
+/* A    Unscramble these messages.
+Then compare with a partner. 
+
+1.  tell | that | is | please | haru | the barbecue | on Saturday
+
+    Please tell haru that the barbecue is on Saturday.
+
+2.  call me | at | 4:00 | you | Caitlin | could | ask | to
+
+    Could you ask Caitlin to call me at 4:00 ?
+
+3.  is | that | Mia | tonight | could | you | the dance performance | tell
+
+    Could you tell Mia that the dance performance is tonight?
+
+
+*/
