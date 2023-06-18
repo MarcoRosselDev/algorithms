@@ -26,3 +26,15 @@ Use be going to to talk about the future:
 5.  Are you going to see a movie tonight? F  
 
 */
+
+/* B    Complete the conversations.
+        Use be going to.
+
+1.  a.  What are you and Tony going to do tonight?
+    b.  We're going to tray the new Chines restaurant. Do you want to come?
+    a.  I'd love to. What time are you going to go?
+    b.  We're going to meet at Tony's house at 7:00.
+        And don't forget an umbrella.
+        The weather forecast sys it going to rain tonight.
+
+*/
