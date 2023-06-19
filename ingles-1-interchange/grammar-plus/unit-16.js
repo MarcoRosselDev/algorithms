@@ -16,3 +16,12 @@ buy a house | change her hairstyle | join a gym | start looking a new job
 4.  Max has joined a gym. He feels healthier now.
 
 */
+
+/* B    Rewrite the sentences using the present tense and the words in parentheses.
+
+1.  Holly doesn't wear jeans anymore. She wears dresses. (desses)
+2.  They don't live in the city anymore. They live in the suburbs. (in the suburbs)
+3.  Jackie isn't so shy anymore. She is more outgoing. (more outgoing)
+4.  I don't eat greasy food anymore. I eat healthier food.(healthier food)
+
+*/
