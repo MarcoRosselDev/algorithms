@@ -17,3 +17,21 @@ Did you take English classes in Argentina?
     No, I didn't. My aunt taught me at home.
 
 */
+
+/* A    Complete these conversation.
+Then practive with a partner.
+
+1.  a.  Your English is very good.
+        When did you begin to stydy English?
+    b.  I started in middle school.
+    a.  What did you think of English class at first?
+    b.  I thought it was a little difficult.
+        but fun.
+
+2.  a.  Where were you born?
+    b.  I was born in Mexico.
+    a.  did you grow up there?
+    b.  No, I didn't. I grew up in Canada.
+
+
+*/
