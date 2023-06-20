@@ -33,5 +33,15 @@ Then practive with a partner.
     a.  did you grow up there?
     b.  No, I didn't. I grew up in Canada.
 
+3.  a.  Where did you meet your best friend?
+    b.  We met in high school.
+    a.  Do yo still see each other?
+    b.  Yes, but not very often.
+        She moved to South Korea two years ago.
+
+4.  a.  Did you have a favorite teacher when you were a child?
+    b.  Yes, I did. I had a very good teacher named Mr. Potter.
+    a.  What did he teach?
+    b.  He taught math.
 
 */
