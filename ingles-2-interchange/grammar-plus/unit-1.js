@@ -53,3 +53,14 @@ Don't use never in negative statements:
     NOT:    I never didn't use to wear sunglasses.
 
 */
+
+/* Complete the conversations with the form of used to.
+
+1.  a.  Hey, Dad. What kinds of clothes did you use to wear - you know,
+        when you were a kid?
+    b.  Oh, we used to wear jeans and T-shirts - like you kids do now.
+    a.  Really? Did Mom use to dress like that, too?
+    b.  No, not really. She never used to like wearing pants.
+        She always use to wear skirts and dresses.
+
+*/
