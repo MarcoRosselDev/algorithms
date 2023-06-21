@@ -24,7 +24,18 @@ Don't use a form of be with the verb die:
 2.  a.  That's interesting. So where you grew up?
     b.  I grew up in Costa Rica. My family moved there when I was little.
 
-3.  a.  did you live in the capital?
-    b.  No, my family didn't live in a city. We lived in a small town called Puerto Viejo.
+3.  a.  Did you live in the capital?
+    b.  No, my family didn't live in a city.
+        We lived in a small town called Puerto collage.
+
+4.  a.  When did you move away from Puerto Viejo?
+    b.  Oh, about wight years ago. I left Puerto Viejo to go to college.
+
+5.  a.  Where did you go to college?
+    b.  I went to college in San Jose, and I live there now.
+
+6.  a.  And when did you get/come to Miami?
+    b.  I got hare a few days ago.
+        I'm visiting my cousin.
 
 */
