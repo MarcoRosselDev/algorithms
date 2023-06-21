@@ -15,3 +15,17 @@ With noncount nouns
     There isn't enough parking.
 
 */
+
+/* A    Complete these statements about city problems.
+Then compare with a partner. (More than one answer may be possible.)
+
+1.  We need more public schools.
+2.  There are to many accidents.
+3.  There are too much public parks.
+4.  There is too much noise all the time.
+5.  There is less recycling in our city.
+6.  The government should bould more affordable housing.
+7.  The city needs fewer bicycle lanes.
+8.  There are fewer free WI-FI hotspots 
+
+*/
