@@ -63,4 +63,11 @@ Don't use never in negative statements:
     b.  No, not really. She never used to like wearing pants.
         She always use to wear skirts and dresses.
 
+2.  a.  Did you use to play a sport when you were a kid?
+    b.  Well, I used to be a swimmer. My sister and I used to swmin
+        on a team.
+    a.  Wow, that's cool! Were you good?
+    b.  Yeah, I used to win gold medals all the time.
+        And my sister used to be the faster swimmer on the team.
+
 */
