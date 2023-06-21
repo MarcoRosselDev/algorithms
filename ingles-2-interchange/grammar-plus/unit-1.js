@@ -39,3 +39,17 @@ Don't use a form of be with the verb die:
         I'm visiting my cousin.
 
 */
+
+/* 2    Used to
+
+Use the base form of used to in questions and negative statements:
+    Did you use to play sports?
+    NOT: Did you used to play sports?
+    didn't use to like bananas
+    NOT: I didn't used to like bananas.
+
+Don't use never in negative statements:
+    I never used to wear sunglasses.
+    NOT:    I never didn't use to wear sunglasses.
+
+*/
