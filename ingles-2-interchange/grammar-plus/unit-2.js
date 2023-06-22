@@ -32,5 +32,13 @@ them:
         I'm sure there will be fewer accidents, too.
     a.  That's true.
 
+*/
+
+/* 2.   Indirect questions from Wh-questions
+
+Indirect questions are often polite requests for information.
+    Can you tell me how much this magazine costs?
+    Sound more polite than
+        How much does this magazine cost?
 
 */
