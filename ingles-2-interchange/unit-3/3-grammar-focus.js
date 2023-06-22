@@ -17,3 +17,18 @@ Comparisons with nouns
     We don't have as much privacy as we had.
 
 */
+
+/* A    Imagine you are looking for a house or an apartment to rent.
+        Read the two ads.
+        Then rewrite the opinios using the words in parentheses.
+
+1.  The house is 20 miles from downtown. (too)
+    The house is too far from downtown.
+
+2.  It's not convenient enough. (too)
+    It's too inconvenient.
+
+3.  It has only one bethroom. (not enough)
+    .
+
+*/
