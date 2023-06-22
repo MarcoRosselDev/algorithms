@@ -26,3 +26,14 @@ Indirect questions
 
 
 */
+
+/* A    Write indirect questions using these Wh-questions.
+Then compare with a partner.
+
+1.  Where can I rent a car?
+    Do you know where can I rent a car?
+
+2.  How much does a city tour cost?
+    Can you tell me how much does a city tour cost?
+
+*/
