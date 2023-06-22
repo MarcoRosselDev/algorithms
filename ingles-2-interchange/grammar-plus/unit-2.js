@@ -42,3 +42,23 @@ Indirect questions are often polite requests for information.
         How much does this magazine cost?
 
 */
+
+/* Complete the conversation with indirect questions.
+
+1.  a.  Excuse me. Can you tell me where the post office is?
+    b.  Yes, of course. The post office is on the next corner.
+
+2.  a.  And could you tell me where I can find a good restaurant?
+    b.  You can find a really good restaurant on Central Avenue.
+
+3.  a.  OK. Do you know what the name of the restaurant is?
+    b.  Yes, The restaurant is called Giorgio's.
+
+4.  a.  Thanks. Can you tell me what type of food they serve ?
+    b.  Yes, They serve Italian food.
+
+5.  a.  Oh, good! Do you know what time the restaurant opens?
+    b.  It opens at 5:00. Tell them Joe sent you!
+    a.  OK, Joe. Thanks for everything! Bye now.
+
+*/
