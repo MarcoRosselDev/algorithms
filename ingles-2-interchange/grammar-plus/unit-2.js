@@ -24,6 +24,13 @@ them:
     a.  That's too bad.
         There aren't enough parking spaces in my neghborhood aither.
     
+3.  a.  Did you hear about the changes to the city center?
+        Starting next month, there will be more bicycle lanes and
+        less street parking.
+    b.  That's good.
+        There are too much pollution downtown.
+        I'm sure there will be fewer accidents, too.
+    a.  That's true.
 
 
 */
