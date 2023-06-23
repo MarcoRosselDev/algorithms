@@ -28,3 +28,19 @@ Joshua  Hi, Ben. I think you're in my English class, too.
 Ben     Oh, right! Yes, I am.
 
 */
+
+/* B    Complete the conversations.
+
+Cara    Excuse me. Are you Alex Lane?
+James   No, I'm not. My name is James Harris.
+        Alex's over there.
+Cara    Oh, sorry.
+
+Cara    Are you Alex Lane?
+Alex    Yes, I am.
+Cara    Hi. I'm Cara Ruiz.
+Alex    Oh, you're in my history class, right?
+Cara    Yes, I am.
+Alex    It's nice to meet you, Cara.
+
+*/
