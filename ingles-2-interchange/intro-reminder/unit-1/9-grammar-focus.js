@@ -15,3 +15,16 @@ Are you Andrea ?
     No, I'm not.
 
 */
+
+/* A    Complete the conversation with the correct words in parentheses.
+
+Ben     Hello, Christy. How are you?
+Christy I'm fine, thenks.
+        sorry - what's your name again?
+Ben     it's Ben - Ben Durant.
+Christy That's right! Ben, this is Joshue Brown.
+        He's in our history class.
+Joshua  Hi, Ben. I think you're in my English class, too.
+Ben     Oh, right! Yes, I am.
+
+*/
