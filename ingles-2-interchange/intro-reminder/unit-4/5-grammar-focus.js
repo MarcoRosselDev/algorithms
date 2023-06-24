@@ -27,3 +27,25 @@ Names
     Whose shoes are these?  They're Taylor's.
 
 */
+
+/* A    Complete the conversation whit the correct words in parentheses.
+
+1.  a.  This isn't my raincoat.
+        Is it yous?
+    b.  No, it's not mine.
+        Ask Emma. Maybe it's hers.
+
+2.  a.  Hey! These aren't our snakers!
+    b.  You're right. Ours are over there.
+
+3.  a.  Are these your gloves, Eric?
+    b.  No, they're not mine.
+        Maybe they are Logan's.
+        His gloves are gray.
+
+4.  a.  Whose T-shirts are these?
+        Are they Hayley's and Brand's?
+    b.  No, They're not their T-shirts.
+        Theirs are white, not blue.
+
+*/
