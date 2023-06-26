@@ -25,3 +25,19 @@ study   --> studied
 shop    --> shopped
 
 */
+
+/* A    Ray is talking about his weekend.
+Complete the sentences.
+
+On Friday night, I wanted to go out, but my
+friend didn't call. I decided 
+to stay home, and I played video games.
+On Saturday, I visited my friend Pablo.
+We talked and listened to music.
+In the evening, he invited some friends over,
+and we cooked a great meal.
+I didn't work very hard on Sunday.
+I didn't study at all. I just walked to the mall
+and shopped.  
+
+*/
