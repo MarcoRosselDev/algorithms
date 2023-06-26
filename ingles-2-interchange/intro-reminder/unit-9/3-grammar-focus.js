@@ -32,3 +32,17 @@ in questions
 4.  Hay algunos animales en tu casa?
     Are there any animals in your house?
 */
+
+/* A Complete the conversation with some or any.
+
+K   Oh, they don't have any potato salad.
+J   But we have lots of potatoes at home. Let's make some.
+K   Great. Do we have any mayonnaise?
+J   No. We need to buy some. And we need some onions.
+K   Oh, no, I don't watn any onions in the salad.
+J   OK, don't worry. Let's get some celery, then.
+K   No, I don't want any celery. I have an idea.
+    Let's put some apples in it.
+J   Are you serious? Apples in potato salad? Well, OK...
+
+*/
