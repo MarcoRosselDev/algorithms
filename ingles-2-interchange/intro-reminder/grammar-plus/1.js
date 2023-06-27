@@ -22,3 +22,30 @@ Complete the conversations with my, your, his, or her.
     a.  That's right, too!
 
 */
+
+/* 2    The verb be
+
+In questions, the verb be comes before the noun or pronoun
+    Are you Joshua Brown?
+    Is he in our English class?
+    Is she the ticher?
+
+Don't use contractions in short answers with Yes:
+    Are you in my class?
+        Yes, I am.
+
+Complete the conversations with the words in the box.
+
+[am, I'm, it's, she's, you're, are, i am, i'm not, you]
+
+1.  a.  Excuse me. Are you Layla Moore?
+    b.  No, I'm not. She's over there.
+    a.  Ok. Thanks.
+
+2.  a.  HI. Are you Layla Moore?
+    b.  Yes, I am.
+    a.  Nice to meet you. I'm Sergio Oliveira.
+        You're in my English class.
+    b.  Yes, I am. It's nive to meet you too, Sergio.
+
+*/
