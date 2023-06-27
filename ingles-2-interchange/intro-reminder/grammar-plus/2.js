@@ -14,7 +14,7 @@ Choose the correct words.
 1.  a.  What are these?
     b.  They're my flash drives.
 
-2.  a.  What are this?
+2.  a.  What's this?
     b.  It's a cell phone.
 
 3.  a.  What's this?
@@ -46,5 +46,16 @@ A   Match the questions with the answers.
 5.      Where's your tablet?
     d.  It's on my desk.
 
+*/
+
+/* B    Complete the conversation.
+
+a.  Where's my dictionary?
+b.  I don't know. Is it in your backpack?
+a.  No, it's not.
+b.  Is this your dictionary?
+a.  Yes, it is. Thanks! Now, where are my glasses?
+b.  Are they on your desk?
+a.  Yes, they are. Thanks you!
 
 */
