@@ -1,4 +1,4 @@
-/* This/these   it/they     plurals
+/* 1    This/these   it/they     plurals
 
 Don't use a contraction with what + are
     What are these? =/= What're these?
@@ -19,5 +19,32 @@ Choose the correct words.
 
 3.  a.  What's this?
     b.  It's an English book.
+
+*/
+
+/* 2    Yes/No and where questions with be.
+
+In questions with where, the verb comes after Where:
+    Where is my credit card? =/= Where my credit car is?
+
+    Where are my sunglasses? =/= Where my sunglasses are?
+
+A   Match the questions with the answers.
+
+1.      Is that your wallet?
+    c.  Oh, yes, it is!
+
+2.      Are these your glasses?
+    e.  No, they're not.
+
+3.      Where are my keys?
+    a.  They're in your backpack.
+
+4.      Is this your bicycle?
+    b.  No, it's not.
+
+5.      Where's your tablet?
+    d.  It's on my desk.
+
 
 */
