@@ -28,3 +28,19 @@ A   Unscremble the words to write negative statements.
     They are not my parents.
 
 */
+
+/* B    Complete the conversations.
+
+1.  a.  Are you and your friend from Costa Rica?
+    b.  No, We're not. We are from the Dominican Republic.
+
+2.  a.  Is your first language Spanish?
+    b.  Yes, it is. My parents are from Ecuador.
+
+3.  a.  Are Nadia and Rayan Lebanese?
+    b.  Yes, They are. But They're in France now.
+
+4.  a.  Are my friend and I late?
+    b.  No, you're not. you're early!
+
+*/
