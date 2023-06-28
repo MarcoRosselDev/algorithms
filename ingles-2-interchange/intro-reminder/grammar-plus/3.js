@@ -44,3 +44,22 @@ A   Unscremble the words to write negative statements.
     b.  No, you're not. you're early!
 
 */
+
+/* 2    Wh-questions with be
+
+Use what to ask about things.
+Use where to ask about places.
+Use who to ask about people.
+Use What is/are ... like? to ask for a description.
+
+Use how to ask a description:
+    How are you today?
+
+Use how old to ask about age.
+    How old is he?
+
+In answers about age, you can use only the number or the number + years old:
+    He's 18.
+    He's 18 years old.
+
+*/
