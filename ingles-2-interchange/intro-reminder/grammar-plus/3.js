@@ -63,3 +63,26 @@ In answers about age, you can use only the number or the number + years old:
     He's 18 years old.
 
 */
+
+/* Complete the questions with ho, what, where, or who.
+Then match the questions with the answers.
+
+1.  Who is that?
+    d.  She's my sister.
+
+2.  What is her name?
+    c.  Her name is Hina.
+
+3.  What is she like?
+    f.  She's very nice and friendly.
+
+4.  How old is she?
+    b.  She's 18.
+
+5.  Where your family from?
+    a.  We're from Japan - from Kyoto.
+
+6.  What is Kyoto like?
+    e.  Oh, it's really beautiful.
+
+*/
