@@ -55,7 +55,7 @@ Use the words in parentheses.
 1.  a.  What's Matt doing?
     b.  He's swimming.
 
-2.  a.  What's Jon and Megan doing?
+2.  a.  What are Jon and Megan doing?
     b.  they're shopping.
 
 3.  a.  What are you doing?
@@ -68,12 +68,12 @@ Use the words in parentheses.
     b.  We're watching a movie.
 
 6.  a.  What's Sara doing?
-    b.  She's having a pizza.
+    b.  She's having pizza.
 
 7.  a.  What are you and Joseph doing?
-    b.  We're studying for the test.
+    b.  We're studying for a test.
 
 8.  a.  What are Laura and Paulo doing?
-    b.  They're chating oline.
+    b.  They're chatting online.
 
 */
