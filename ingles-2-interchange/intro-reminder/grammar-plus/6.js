@@ -24,3 +24,29 @@ Well, I don't work far from our apartment, so I don't need a car or public trans
 I ride my bike to work!
 
 */
+
+/* 2    Simple present questions
+
+In questions, use does with he/she/it and do with all the others:
+    Does he/she/it get up early?
+    Do I/you/we/they get up early?
+
+Don't add -s to the verb:
+    Does she live alone?
+
+
+A   Write questions to complete the conversations.
+
+1.  a.  Do you use public transportation?
+    b.  Yes, I use public transportation.
+
+2.  a.  Does your family eat dinner at 5:00?
+    b.  No, my family doesn't eat dinner at 5:00
+
+3.  a.  Does your brother take the bus to work?
+    b.  No, my brother doesn't take the bus to work.
+
+4.  a.  Do you get up late on weekends?
+    b.  No, I don't get up late on weekends.
+
+*/
