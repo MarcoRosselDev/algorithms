@@ -47,4 +47,33 @@ To form the continuous of verbs ending in -e, drop the e and add -ing:
 For verbs ending in vowel + consonant, double the consonant and add -ing:
     get ---> getting.
 
+
+What are the people doing?
+Write conversations.
+Use the words in parentheses.
+
+1.  a.  What's Matt doing?
+    b.  He's swimming.
+
+2.  a.  What's Jon and Megan doing?
+    b.  they're shopping.
+
+3.  a.  What are you doing?
+    b.  I'm writing a message.
+
+4.  a.  What's Chris doing?
+    b.  He's cooking dinner.
+
+5.  a.  What are you and Tyler doing?
+    b.  We're watching a movie.
+
+6.  a.  What's Sara doing?
+    b.  She's having a pizza.
+
+7.  a.  What are you and Joseph doing?
+    b.  We're studying for the test.
+
+8.  a.  What are Laura and Paulo doing?
+    b.  They're chating oline.
+
 */
