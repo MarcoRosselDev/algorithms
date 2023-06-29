@@ -60,3 +60,34 @@ Change the negative sentences to affirmative sentences.
     Ayumi is wearing a scarf.
 
 */
+
+/* 3    Present continuous yes/no questions: adjective + noun
+
+In questions, the present continuous is be + subject + verb + -ing:
+    Is it raining?
+    Are you earing a raincoat?
+
+Adjectives can come before nouns or after the verb be:
+    He's wearing a blue hat.
+    His hat is blue.
+
+Adjectives don't have a plural form:
+    a green hat.
+    two green hats.
+
+Write questions using the words in parentheses.
+Then complete the responses.
+
+1.  a.  Is Mr. Thomas wearing a dark blue coat?
+    b.  No, he isn't wearing a dark blue coat.
+
+2.  a.  Are you wearing high heels?
+    b.  No, we aren't wearing high heels.
+
+3.  a.  Are you wearing a sweater?
+    b.  Yes, I'm wearing a sweater.
+
+4.  a.  Is it raining?
+    b.  Yes, It's raining.
+
+*/
