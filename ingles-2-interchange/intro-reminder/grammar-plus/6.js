@@ -50,3 +50,14 @@ A   Write questions to complete the conversations.
     b.  No, I don't get up late on weekends.
 
 */
+
+/* B    Complete the conversation with at, in, or on.
+
+a.  Does your family have breakfast together in the morning?
+b.  Well, we eat together on weekends, but on weekdays we're all busy.
+    My parents go to work early - at 6:30. But we eat dinner together in the evening, 
+    and we have a big lunch together on Sundays.
+    We eat at noon.
+    Then in the afternoon, we take a walk or go to the movies.
+
+*/
