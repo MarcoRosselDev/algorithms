@@ -31,4 +31,25 @@ Use some in affirmative statements:
 Use any in negative statements:
     There aren't any chair in the bedroom.
 
+
+Read the information about the Perez family's new house. 
+Write sentences with the phrases in the box.
+
+There's a
+There's no
+There isn't a
+There are some
+There are no
+There aren't any
+
+1.  A living room?                  yes.
+2.  A dining room?                  no.
+3.  A microwave in the kitchen?     no.
+4.  A table in the kitchen?         yes.
+5.  Curtains on the windows?        yes.
+6.  Rugs on the floors?             no.
+7.  Closets in the bedrooms?        yes.
+8.  Bookcases in the bedrooms?      no.
+
+
 */
