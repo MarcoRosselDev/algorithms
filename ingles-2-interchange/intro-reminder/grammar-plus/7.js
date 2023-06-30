@@ -43,13 +43,27 @@ There are no
 There aren't any
 
 1.  A living room?                  yes.
-2.  A dining room?                  no.
-3.  A microwave in the kitchen?     no.
-4.  A table in the kitchen?         yes.
-5.  Curtains on the windows?        yes.
-6.  Rugs on the floors?             no.
-7.  Closets in the bedrooms?        yes.
-8.  Bookcases in the bedrooms?      no.
+    There's a living room.
 
+2.  A dining room?                  no.
+    There isn't a dining room.
+
+3.  A microwave in the kitchen?     no.
+    There's no microwave in the kitchen.
+
+4.  A table in the kitchen?         yes.
+    There's a table in the kitchen
+
+5.  Curtains on the windows?        yes.
+    There are curtains on the windows.
+
+6.  Rugs on the floors?             no.
+    There aren'n any rugs on the floors.
+
+7.  Closets in the bedrooms?        yes.
+    There are some closets in the bedrooms.
+
+8.  Bookcases in the bedrooms?      no.
+    There aren't any bookcases in the bedrooms.
 
 */
