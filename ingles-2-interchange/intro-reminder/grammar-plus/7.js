@@ -18,3 +18,17 @@ b.  Oh. Do you like the city?
 a.  Yes, I do. But my wife doesn't.
 
 */
+
+/* 2    There is, there are.
+
+Use there is with singular nouns:
+    There's a bed.
+Use there are with plural nouns:
+    There are two chair.
+
+Use some in affirmative statements:
+    There are some chairs in the kitchen.
+Use any in negative statements:
+    There aren't any chair in the bedroom.
+
+*/
