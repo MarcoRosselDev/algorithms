@@ -46,3 +46,23 @@ He is going to make his special homemade pizza for Rosa and me.
 
 
 */
+
+/* 2    Wh-questions with be going to
+
+Use is in questions with Who as the subject:
+    Who's going to be there?
+
+
+Complete the conversation with the correct form of be going to.
+
+a.  What are you going to do this weekend?
+b.  I'm going to have a very busy weekend. My friend Amir is going to visit me, 
+    and we're going to spend the weekend in the city.
+a.  That's nice. Are you going to stay in a hotel?
+b.  No, we're going to stay with our friend Lara.
+    And Lara is going to have a big party on Saturday night.
+a.  Really? And who is going to be at the party?
+    Do you know any of Lara's friends?
+b.  No, I don't. But Amir and I are going to meet everyone on Saturday night.
+
+*/
