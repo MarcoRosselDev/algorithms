@@ -81,7 +81,7 @@ A   Write sentences about the things people can and can't do.
 5.  Who can snowboard?
     Alicia can snowboard.
 
-5.  What can Matt do?
-    Matt can act.
+6.  What can Matt do?
+    He can act.
 
 */
