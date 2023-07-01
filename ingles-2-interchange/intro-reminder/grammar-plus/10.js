@@ -63,3 +63,25 @@ A   Write sentences about the things people can and can't do.
     Corinne can't write poems, but she can tell good jokes.
 
 */
+
+/* 2 B  Look at part A. Answer the questions. Write short sentnces. 
+
+1.  Can Matt and Drew sing?
+    No, they can't.
+
+2.  Who can tell good jokes?
+    Corinne can tell good jokes.
+
+3.  Can Olivia drive a car?
+    No, she can't.
+
+4.  Can Juan play the piano?
+    Yes, He can.
+
+5.  Who can snowboard?
+    Alicia can snowboard.
+
+5.  What can Matt do?
+    Matt can act.
+
+*/
