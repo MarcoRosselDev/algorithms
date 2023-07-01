@@ -31,3 +31,35 @@ Then match the questions with the answers.
     b.  Usually at four o'clock.
 
 */
+
+/* 2    Can for ability
+
+Use the base from of the verb with can.
+    With third-person singular, don't add an-s to can or to the base from:
+        She can play the piano.
+        NOT -> She can plays the piano.
+
+
+A   Write sentences about the things people can and can't do. 
+    Use can or can't with and, but, or.
+
+
+1.  Olivia:     ride a bike ✓  ||  drive a car ✗
+    Olivia can ride a bike, but she can't drive a car.
+
+2.  Juan:       play the piano ✓   ||  play the violin ✓
+    Juan can play the piano, and he can play the violin .
+
+3.  Matt and Drew:   act ✓      ||      sing ✗
+    Matt and Drew can act, but they can't sing.
+
+4.  Alice:      Snowboard ✓    ||      ice-skate ✗
+    Alice can snowboard, but she can't ice-skate.
+
+5.  Ben:    take good photos ✓   ||    edit videos ✓
+    Ben can take good photos, and he can edit vidios.
+
+6.  Corinne:    write poems ✗    ||  tell good jokes ✓
+    Corinne can't write poems, but she can tell good jokes.
+
+*/
