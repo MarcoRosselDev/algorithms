@@ -61,5 +61,4 @@ b.  Yes, we did. And we ate a lot of new foods.
 a.  Well, I didn't go anywhere, but I read a lot of good books and
     saw some grat movies.
 
-
 */
