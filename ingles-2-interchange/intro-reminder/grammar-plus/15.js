@@ -36,12 +36,28 @@ Because answers the question Why?
 
 Complete the questions. Use the words in the box.
 
-how     what    Where   Why
-How old         when    who
+how-     what-    Where-   Why-
+How old-         when-    who-
 
 1.  a.  How was your childhood?
     b.  I had a fantastic childhood!
 
-2.  a.  
+2.  a.  Where did you grow up?
+    b.  I grwe up in Incheon, a small city insouth Korea.
+
+3.  a.  How old were you when you started school?
+    b.  I think I was five or six.
+
+4.  a.  Who was your best friend in high school?
+    b.  My best friend was a boy named Joon-ho.
+
+5.  a.  When did you leave home?
+    b.  In 2012.
+
+6.  a.  Why did you leave Incheon?
+    b.  Because I wanted to live in a big ciry.
+
+7.  a.  What was your first job in Seoul?
+    b.  I worked as a server in a restaurant.
 
 */
