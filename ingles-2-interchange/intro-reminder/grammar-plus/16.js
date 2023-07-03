@@ -37,6 +37,26 @@ I'd (really) like to and I'd love to both mean the same as I want to.
 Rewrite the conversations. Write the sentences in a different way.
 
 1.  a.  Do you want to see a movie tonight?
+        a.  Would you like to see a movie tonight?
 
+    b.  Oh, I can't. I need to work.
+        b.  Oh, I can't. I have to work.
 
+2.  a.  Do you want to play tennis on Saturday?
+        a.  Would you like to play tennis on Saturday?
+
+    b.  I'd love to, but I have to help my parents.
+        b.  I'd like to, but I need to help my parents.
+
+3.  a.  I want a job at Carol's cafe.
+        a.  I would like a job at Carol's cafe.
+
+    b.  You need to speak to her.
+        b.  You have to speak to her.
+    
+4.  a.  Would you like to go to a party with me?
+        a.  Do you want to go to a party with me?
+
+    b.  I want to, but I can't. I have to study.
+        b.  I would like to, but I can't. I need to study.
 */
