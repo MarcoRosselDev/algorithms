@@ -22,3 +22,21 @@ Complete the conversations.
     b.  Oh, don't worry. Mrs. Sanchez. I'll text her. Thanks a lot. Bye!
 
 */
+
+/* 2    Invitiations:   verb + to
+
+You can use both    Do you want to ...? and     Would you like to...? 
+to invite a person to do something.
+
+Don't confuse would like to with like to.
+would like to means the same as want to.
+
+I'd (really) like to and I'd love to both mean the same as I want to.
+
+
+Rewrite the conversations. Write the sentences in a different way.
+
+1.  a.  Do you want to see a movie tonight?
+
+
+*/
