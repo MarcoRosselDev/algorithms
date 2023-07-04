@@ -22,5 +22,35 @@ A   Complete these sentences.
     I am a student at City Collega. My parents are on vacation this week.
     They're in Las Vegas.
 
+*/
+
+/* Wh-questions with be
+
+Where's your friend?            He's in class.
+Who's Soo-jin?                  She's my classmate.
+What's Seoul like?              It's really beautiful city.
+Where are you and Vanessa from? We're from Chile.
+How are your classes?           They're pretty interesting.
+What are your classmates like?  They're really nice.
+
+B   Complete these questions.
+
+1.  a.  Who's that?
+    b.  Oh, that's Mrs. Adams.
+
+2.  a.  Where is she from?
+    b.  She's from San Pedro.
+
+3.  a.  What's her first name?
+    b.  It's Caroline.
+
+4.  a.  Who are the two studednts over there
+    b.  Their names are Mason and Ava.
+
+5.  a.  Where're they from?
+    b.  They're from Vancouver.
+
+6.  a.  What are they like?
+    b.  They're shy, but very friendly.
 
 */
