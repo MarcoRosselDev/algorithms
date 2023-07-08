@@ -21,4 +21,18 @@ How much are those?
         They're $40.        ===     Fourtyn dollars.
 
 
+A   Complete these conversations.
+
+a.  Excuse me. How much are those jeans?
+b.  Which ones? Do you mean these?
+a.  No, the light blue ones.
+b.  Oh, those are $59.95.
+a.  Wow. That's expensive!
+
+a.  How much is that backpack?
+b.  Which one?
+a.  The orange one.
+b.  It's $36.99. But this green one is only $22.25.
+a.  That's not bad. Can I see it, please?
+
 */
