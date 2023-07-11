@@ -38,4 +38,27 @@ Age
         He's in his twenties.
 
 
+
+A   Write questions to match these statemenets.
+
+1.  How old is your father?
+    My father is 52.
+
+2.  How tall are you?
+    I'm 167 cm.
+
+3.  My cousin has red hair.
+    What color is your cousin's hair?
+
+4.  Does he wear glasses?
+    No, he wears contact lenses.
+
+5.  What does he look like?
+    He's tall and very good-looking.
+
+6.  How long is your sister's hair?
+    My sister's hair is medium length.
+
+7.  What color are your eyes?
+    I have dark brown eyes.
 */
