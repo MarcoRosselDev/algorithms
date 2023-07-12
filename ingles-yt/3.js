@@ -27,5 +27,31 @@ Maria esta comiendo una ensalada.
 
 Maria is eating a salad.
 
+---------------------------------------------------
+Tu eres mi amigo y el es tu amigo.
+
+You're my friend and he is your firend.
+---------------------------------------------------
+cocinar = cook --> cooking
+---------------------------------------------------
+Ustedes estan cocinando.
+
+You're coooking.
+---------------------------------------------------
+Mi mama no esta durmiendo, ella esta trabajando.
+
+My mom is not sleeping, she's working.
+---------------------------------------------------
+Marco no esta cocinando, esta comiendo.
+
+Marco is not cooking, he's eating.
+---------------------------------------------------
+Nosotros no estamos caminando.
+
+We're not walking.
+---------------------------------------------------
+ellas no estan cocinando.
+
+They're not cooking.
 
 */
