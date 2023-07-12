@@ -34,6 +34,18 @@ They're eating  Ellos estan comiendo
 You're eating   Ustedes estan comiendo
 we're eating    Nosotros estamos comiendo
 
+--------------------------------
+3.  infinitivo de dormir = sleep;
+    present continuous of sleep = sleeping;
+    then -->
 
+I'm sleeping        Estoy durmiendo
+You're sleeping     Estas durmiendo
+He's sleeping       El esta durmiendo
+She's sleeping      Ella esta durmiendo
+It's sleeping       Eso esta durmiendo
+They're sleeping    Ellos estan durmiendo
+You're sleeping     Ustedes estan durmiendo
+We're sleeping      Nosotros estamos durmiendo
 
 */
