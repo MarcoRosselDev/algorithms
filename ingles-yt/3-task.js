@@ -48,4 +48,20 @@ They're sleeping    Ellos estan durmiendo
 You're sleeping     Ustedes estan durmiendo
 We're sleeping      Nosotros estamos durmiendo
 
+--------------------------------
+4.  Infinitivo de trabajar = work
+    Present continuous of work = working
+    then -->
+
+I'm working     Estoy trabajando
+You're working  Estas trabajando
+He's working    El esta trabajando
+She's working   Ella esta trabajando
+It's working    Eso esta trabajando
+They're working Ellos estan trabajando
+You're working  Ustedes estan trabajando
+We're working   Nosotros estamos trabajando
+
+
+
 */
