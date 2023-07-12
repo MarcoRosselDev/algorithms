@@ -34,4 +34,16 @@ Me gusta cocinar con mi hermano
 
 I like to cook with my brother.
 
+-------------------------------
+hacer = do
+no hacer = don't/do not.
+-------------------------------
+Yo camino
+
+I walk
+-------------------------------
+yo no camino
+
+I don't walk
+
 */
