@@ -45,5 +45,31 @@ I walk
 yo no camino
 
 I don't walk
+-------------------------------
+Yo como pollo
+
+I eat chicken.
+-------------------------------
+Yo no como pollo
+
+I don't eat chicken
+-------------------------------
+Yo cocino el pollo con mi hermana.
+
+I cook the chicken with my sister.
+-------------------------------
+Yo no cocino el pollo con mi hermano.
+
+I don't cook the chicken with my brother.
+-------------------------------
+bailar = dance
+-------------------------------
+Me gusta bailar con Maria.
+
+I like to dance with maria.
+-------------------------------
+No me gusta bailar con maria
+
+I don't like to dance with maria.
 
 */
