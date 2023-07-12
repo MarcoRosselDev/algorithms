@@ -62,6 +62,19 @@ They're working Ellos estan trabajando
 You're working  Ustedes estan trabajando
 We're working   Nosotros estamos trabajando
 
+--------------------------------
+5.  Infinitivo de caminar = walk
+    Present continuous of walk = walking
+    then --->
+
+I'm walking     Estoy caminando
+You're walking  Estas caminando
+He's walking    El esta caminando
+She's walking   Ella esta caminando
+It's walking    Eso esta caminando
+They're walking Ellos estan caminando
+You're walking  Ustedes estan caminando
+We're walking   Nosotros estamos caminando
 
 
 */
