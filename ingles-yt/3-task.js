@@ -20,4 +20,20 @@ They're cooking Ellos estan cocinando
 You're cooking  Ustedes estan cocinando
 We're cooking   Nosotros estamos cocinando
 
+--------------------------------
+2.  infinitivo de comer = eat;
+    present continuous of eat = eating;
+    then --->
+
+I'm eating      Estoy comiendo
+You're eating   Estas comiendo
+He's eating     El esta comiendo
+She's eating    Ella esta comiendo
+It's eating     Eso esta comiendo
+They're eating  Ellos estan comiendo
+You're eating   Ustedes estan comiendo
+we're eating    Nosotros estamos comiendo
+
+
+
 */
