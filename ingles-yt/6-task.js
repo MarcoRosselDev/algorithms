@@ -76,4 +76,25 @@ He sleep            He desn't sleep
 We sleep            we don't sleep
 They sleep          they don't sleep
 
+------------------------------------------------------
+4.  sing, present continuous of sing is singing.
+    then.
+
+present continuous  |   negative
+
+I'm singing         I'm not singin
+She's singing       She's not singin
+He's singing        He's not singin
+We're singing       We're not singin
+they're singing     they're not singin
+
+present simple      |   negative
+
+I sing              I don't sing
+she sing            she doesn't sing
+he sing             he doesn't sing
+we sing             we don't sing
+they sing           they don't sing
+
+
 */
