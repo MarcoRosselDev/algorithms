@@ -56,4 +56,24 @@ He works            He doesn't work
 We work             We don't work
 They work           they don't work
 
+------------------------------------------------------
+3.  sleep, the present continuous of sleep is sleeping.
+    then.
+
+present continuous  |   negative
+
+I'm slipping        I'm not slipping
+She's slipping      She's not slipping
+He's slipping       He's not slipping 
+We're slipping      We're not slipping
+They're slipping    They're not slipping
+
+present simple      |   negative
+
+I sleep             I don't sleep
+She sleep           She doesn't sleep
+He sleep            He desn't sleep
+We sleep            we don't sleep
+They sleep          they don't sleep
+
 */
