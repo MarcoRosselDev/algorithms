@@ -96,5 +96,23 @@ he sing             he doesn't sing
 we sing             we don't sing
 they sing           they don't sing
 
+------------------------------------------------------
+5.  read,   the present continuous of read is reading
+
+present continuous  |   negative
+
+I'm reading         I'm not reading
+She's rading        She's not reading
+he's reading        he's not reading
+we're reading       We're not reading
+they're reading     they're not reading
+
+present simple      |   negative
+
+I read              I don't read
+She read            She doesn't raed
+he read             he doesn't read
+we read             we don't read
+they read           they don't read
 
 */
