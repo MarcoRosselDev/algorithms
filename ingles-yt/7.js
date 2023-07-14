@@ -61,5 +61,13 @@ Pepe's 28 years.
 Tengo 42 agnios de edad.
 
 I'm 42 years.
+---------------------------
+Soy Martin y tengo 45 agnios de edad.
+
+I'm Martin and I'm 45 years.
+---------------------------
+Soy Lupita y tengo 32 agios de edad.
+
+I'm Lupita and I'm 32 years.
 
 */
