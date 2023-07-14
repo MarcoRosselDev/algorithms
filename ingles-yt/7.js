@@ -36,3 +36,30 @@
 1 000 000 one millio
 
 */
+
+/* Que edad tienes?
+
+How old are you?
+
+Yo tengo -- de edad.
+
+I'am -- years (old). <--- ths old is too formal, don't used.
+
+---------------------------
+Tengo 25 agnios de edad
+
+I'am 25 years.
+---------------------------
+Ella tiene 39 agnios de edad.
+
+She's 39 years.
+---------------------------
+Pepe tiene 28 agnios de edad.
+
+Pepe's 28 years.
+---------------------------
+Tengo 42 agnios de edad.
+
+I'm 42 years.
+
+*/
