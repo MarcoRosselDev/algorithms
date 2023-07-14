@@ -38,4 +38,32 @@ pasado simple negativo.
     They didn't eat with me.
 pasado simple pregunta.
     Did they eat with me
+
+----------------------------------------
+nosotros compramos veinte libros
+
+Presente,
+    We buy twenty books.
+presente continuo,
+    We're buying twenty books
+pasado simple positivo.
+    We bought twenty books
+pasado simple negativo.
+    We didn't buy twenty books
+pasado simple pregunta.
+    Did we buy twenty books?
+
+----------------------------------------
+tu llamaste a mi papa
+
+Presente,
+    You call my dad.
+presente continuo,
+    You're calling my dad.
+pasado simple positivo.
+    You called my dad.
+pasado simple negativo.
+    You didn't call my dad.
+pasado simple pregunta.
+    Did you call my dad?
 */
