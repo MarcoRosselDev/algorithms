@@ -55,4 +55,69 @@ They bought the books with my mom.
 The -- then bocal = thi
 The -- then consonante = tha
 ---------------------------------
+Marco cocina con mi hermana
+
+Marco cook with my sister
+---------------------------------
+Marco esta cocinando con mi hermana
+
+Marco is cooking with my sister.
+---------------------------------
+Marco cocino con mi hermana.
+
+Marco cooked with my sister
+---------------------------------
+Negativo / pregunta ----> auxiliar do en pasado
+
+Did
+Did not ----> en negativo
+Didn't  ----> abreviado 
+
+si una oracion tiene did el segundo verbo deve ir en infinitivo.
+---------------------------------
+Mi hermano no comio con mi mama
+
+My brother didn't eat with my mom.
+---------------------------------
+Mi hermano comio con mi mama?
+
+Did my brother eat with my mom?
+---------------------------------
+Wendy compro el libro.
+
+Wendy bought the book.
+---------------------------------
+Wendy no compro el libro
+
+Wendy didn't buy the book
+---------------------------------
+?Wendy compro el libro?
+
+Did wendy buy the book?
+---------------------------------
+Estudiaste anoche
+
+You studied last night
+---------------------------------
+No estudiaste anoche.
+
+You didn't study last night.
+---------------------------------
+? estudiaste anoche?
+
+Did you study last night?
+---------------------------------
+Leiste catorce libros la semana pasada.
+
+you read fourteen books last week. ---------> read = read en pasado
+read no es readed.
+---------------------------------
+No leiste catorce libros la semana pasada
+
+You didn't read fourteen books last week.
+---------------------------------
+? Leiste catorce libros la semana pasada?
+
+Did you read fourteen books last week?
+---------------------------------
 */
