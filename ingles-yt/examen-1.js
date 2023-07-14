@@ -33,8 +33,69 @@ red an blue
 Pablo ask to Juan about her favorite color?
 This combersation is maked on Tuesday
 Pablo's favorite colors are Red and Blue.
-Juan doesn't like Green color. 
+Juan doesn't like the Green color. 
 --------------------------------------------------
+Me gusta leer
+
+I like to read.
+--------------------------------------------------
+No me gusta leer
+
+I don't like to read.
+--------------------------------------------------
+Mi mama no esta durmiendo, ella esta trabajando
+
+Mi mom is not sleeping, she's working.
+--------------------------------------------------
+Me gusta comer pollo
+
+I like to eat chicken
+--------------------------------------------------
+No me gusta comer pollo
+
+I don't like to eat chicken
+--------------------------------------------------
+Me gusta bailar
+
+I like to dance
+--------------------------------------------------
+No me gusta bailar
+
+I don't like to dance.
+--------------------------------------------------
+Ellos son amigos
+
+They're friends = c;
+--------------------------------------------------
+Ustedes son mis amigos
+
+You're my firends. = c;
+--------------------------------------------------
+Te gusta bailar?
+
+Do you like to dance?
+--------------------------------------------------
+Te gusta comer helado?
+
+Do you like to eat ice cream?
+--------------------------------------------------
+yo cocino el pollo con mi hermana
+
+I cook the chicken with mi sister.
+--------------------------------------------------
+Yo no cocino el pollo con mi hermana
+
+I don't cook the chicken with my sister.
+--------------------------------------------------
+Estas durmiendo
+
+You're sleeping
+--------------------------------------------------
+No estas durmiendo
+
+You're not sleeping
+--------------------------------------------------
+
 --------------------------------------------------
 --------------------------------------------------
 --------------------------------------------------
