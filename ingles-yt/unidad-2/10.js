@@ -39,7 +39,51 @@ La manzana esta al lado de la caja
 
 The apple is next to the box
 -------------------------------
+far = lejos
+near = serca
 -------------------------------
+La manzana estaba sobre la caja
+
+The apple was on the box. = 3;
+-------------------------------
+
+january = enero
+February = febrero
+march = marzo
+april = abril
+may = mayo
+june = junio
+july = julio
+august = agosto
+september = septiembre
+october = octubre
+november = noviembre
+december = diciembre
+
+-------------------------------
+lunes       monday
+martes      tuesday
+miercoles   wednesday
+jueves      thursday
+viernes     friday
+sabado      saturday
+domingo     sunday
+
+-------------------------------
+Preposiciones
+
+at = hora = at 6 o'clock
+in = mes = in junuary
+on = dias = sunday
+
+-------------------------------
+El martes a las 8 pm.
+
+On Tuesday at 8 p.m.
+-------------------------------
+En octubre, el jueves a las 4 pm.
+
+In october, on thursday at 4 p.m.
 -------------------------------
 
 */
