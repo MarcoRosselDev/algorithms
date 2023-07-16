@@ -41,4 +41,35 @@ Puedes imaginarnos a ti y a mi?
 
 Can you imagine you and me?
 -------------------------------------
+asi que / muy / tan === So
+feliz o felices === happy
+-------------------------------------
+Tan feliz 
+
+So happy
+-------------------------------------
+Puedes imaginarnos a ti y a mi, tan felices juntos?
+
+Can you imagine you and me, so happy together?
+-------------------------------------
+La cancion = the song
+-------------------------------------
+Puedes imaginar la cancion?
+
+Can you imagine the song?
+-------------------------------------
+Puedes imaginar nuestra concion?
+
+Can you imagine our song?
+-------------------------------------
+Es posible que te ayude?
+
+May I help you?
+-------------------------------------
+Can you help me?
+-------------------------------------
+por supuesto = of course
+claro = sure.
+con gusto = my pleasure
+-------------------------------------
 */
