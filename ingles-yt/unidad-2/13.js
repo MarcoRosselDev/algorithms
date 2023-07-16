@@ -45,12 +45,45 @@ negativo
 I could not   =  yo no podria./yo no pude.
 I couldn't === suena = cudnt
 -------------------------------------
+Ella no pudo cocinar hoy
+
+She couldn't cook today.
 -------------------------------------
+por que = be cause = bi cas
+ahi = there
 -------------------------------------
+ella estaba ahi
+
+She was there
 -------------------------------------
+Alex couldn't dance with you last night be cause he was not there.
+
+Alex no pudo bailar con tigo anoche porque el no estaba ahi.
 -------------------------------------
+Es posible que cocine, pero no es posible que baile.
+
+I might cook, but I might not dance.
+I may cook, but I may not dance. <---- no existe vercion corta
 -------------------------------------
+Es posible que trabajen, pero no que duerman.
+
+They may work, but they may not sleep.
 -------------------------------------
+Nosotros pudimos comer, pero tu no pudiste.
+
+We could eat, but you couldn't.
+-------------------------------------
+Ustedes pudieron caminar con mi mama, pero ellas no pudieron.
+
+You could walk with my mother, but they couldn't.
+-------------------------------------
+No puede ver el cielo
+
+I couldn't see the sky.
+-------------------------------------
+No puede ver television.
+
+I couldn't watch TV.
 -------------------------------------
 -------------------------------------
 -------------------------------------
