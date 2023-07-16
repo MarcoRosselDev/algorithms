@@ -85,7 +85,27 @@ No puede ver television.
 
 I couldn't watch TV.
 -------------------------------------
+Yo no podria ver el cielo
+
+I may not see the sky.
 -------------------------------------
+Yo no podria ver television
+
+I may noy watch TV.
 -------------------------------------
+Happen = pasar/suceder/ocurrir
+
+It might happen
+It may happen
+It could happen <--- todos son lo mismo
+-------------------------------------
+cualquier cosa = anything
+-------------------------------------
+Cualquier cosa podria pasar
+
+anything may happen.
+anything might happen.
+anything could happen.
+
 -------------------------------------
 */
