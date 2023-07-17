@@ -59,7 +59,7 @@ Quik! It's getting dark.
 
 Apúrate, está oscureciendo.
 ---------------------------------------
-Quick! Its getting late.
+Quick! It's getting late.
 
 Apúrate, se hace tarde.
 ---------------------------------------
