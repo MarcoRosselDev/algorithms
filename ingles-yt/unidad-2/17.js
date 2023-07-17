@@ -47,7 +47,32 @@ Marco, get out of my car!
 
 Marco, salte de mi auto!
 ---------------------------------------
+Excuse me, where did you get your pink book?
+
+Disculpame, donde obtuviste tu libro rosa.
 ---------------------------------------
+oscuro = dark
+tarde = late
+rapido/ de prisa = quick
 ---------------------------------------
+Quik! It's getting dark.
+
+Apúrate, está oscureciendo.
+---------------------------------------
+Quick! Its getting late.
+
+Apúrate, se hace tarde.
+---------------------------------------
+I don't get it!
+
+No te entiendo! / no te cacho!
+---------------------------------------
+I didn't get it!
+
+No te entendi! / no lo cache!
+---------------------------------------
+¿ Lo entendiste ?
+
+Did you get it?
 ---------------------------------------
 */
