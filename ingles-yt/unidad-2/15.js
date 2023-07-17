@@ -24,12 +24,20 @@ Tu necesitas le libro negro, pero yo necesito el libro rojo.
 
 You need the black book, but I need the red book.
 ----------------------------------
+Ellos no necesitan estudiar.
+
+They don't need to study.
 ----------------------------------
+¿ Ellos necesitan estudiar ?
+
+Do they need to study?
 ----------------------------------
+¿ Ella necesita comprar manzanas y zanahorias?
+
+Does she need buy apples and carrots ?
 ----------------------------------
-----------------------------------
-----------------------------------
-----------------------------------
-----------------------------------
+¿ Alex necesita caminar?
+
+Does Alex need to walk?
 ----------------------------------
 */
