@@ -48,13 +48,27 @@ I will get my goals
 
 conseguire mis metas.
 ---------------------------------------
+este = this
 ---------------------------------------
+Conceguire mis metas este agnio
+
+I will get my goals this year.
 ---------------------------------------
+Will you eat your vagetables?
+
+comeras tus verduras?
 ---------------------------------------
+No, I will not. ----> no, no lo hare.
+Yes, I will. ----> si, lo hare.
+Not sure. ----> no estoy seguro.
+Maybe. ----> talves.
+Maybe later. ----> talves mas tarde.
 ---------------------------------------
+Ellos comeran pollo con mi hermano.
+
+They will eat chicken with my brother.
 ---------------------------------------
----------------------------------------
----------------------------------------
----------------------------------------
+I will run = I'll run
+I will sleep = I'll sleep
 ---------------------------------------
 */
