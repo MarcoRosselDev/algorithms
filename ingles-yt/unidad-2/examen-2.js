@@ -83,9 +83,38 @@ Necesito el libro azul pero tu no.
 
 I need the blue book, but you don't = A
 -----------------------------------
+Ella tiene un libro negro
+
+She has a black book = B
 -----------------------------------
+Coloca el numero en palabras.
+
+1780    seventeen-eighty
+1966    nineteen-sixty-six
+2021    twenty-twenty-one
+2022    twenty-twenty-two
+2019    twenty-nineteen
+
 -----------------------------------
------------------------------------
------------------------------------
------------------------------------
+Listening
+
+1.
+a.  I alex how are you?
+b.  ha, not bad.
+a.  OK, have a great day.
+b.  same.
+
+2.
+a.  I'm starving
+b.  I know I think we shall eat burgers
+a.  Oooo, I can eat fifty burgers
+b.  yea, I need some water.
+
+3.
+a.  Good morning, marie
+b.  Good morning, theacher
+a.  mare, could you get up, please.
+b.  of course teacher
+a.  thank you marie
+
 */
