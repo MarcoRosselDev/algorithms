@@ -18,8 +18,17 @@ How many carrots do you have?
 
 Hoe much rice do you have?
 ----------------------------------
+? Cuantas zanahorias viste?
+
+How many carrots did you see?
 ----------------------------------
+How much it is?
+
+Cuanto es?
 ----------------------------------
+How many fries do you want?
+
+Cuantas papas fritas quieres?
 ----------------------------------
 ----------------------------------
 ----------------------------------
