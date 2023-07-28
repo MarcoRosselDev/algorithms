@@ -24,14 +24,42 @@ dancing, eating, walking
 
 don't = for dancing, for eating, for walking.
 -----------------------------------
+me gusta cocinar = I like to cook.
 -----------------------------------
+tomar una siesta
+
+to take a nap
 -----------------------------------
+me gustaria tomar una siesta.
+
+I would like to take a nap.
+I'd like to take a nap.
 -----------------------------------
+Me gustaria comer contigo.
+
+I'd like to eat with you.
 -----------------------------------
+I'm here for speaking better english.
+
+Estoy aqui para hablar mejor ingles.
 -----------------------------------
+I will go to your house tomorrow.
+I'll go to your house tomorrow.
+
+Ire a tu casa ma;ana.
 -----------------------------------
+hacer = make/past = made
 -----------------------------------
+I made pizza for you
+I made pizza to you
+
+hice pizza para ti.
+las dos son correctas.
 -----------------------------------
+This pizza is for you
+This pizza is to you
+
+Esta pizza es para ti.
 -----------------------------------
 -----------------------------------
 */
