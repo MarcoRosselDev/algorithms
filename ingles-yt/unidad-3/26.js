@@ -61,5 +61,14 @@ This pizza is to you
 
 Esta pizza es para ti.
 -----------------------------------
+Estoy aprendiendo
+
+I'm learning
+-----------------------------------
+Tu estas viendo este video para aprender
+
+You're watching this video to learn.
+-----------------------------------
+-----------------------------------
 -----------------------------------
 */
