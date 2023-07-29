@@ -1,10 +1,11 @@
 /* 29
+my      mi
 our     nuestro
 him     su(masculino)
 her     su(femenino)
 his     su(cosa)
 its     
-their   sullos
+their   suyos
 -----------------------------------------
 To speak
 
@@ -28,11 +29,23 @@ they sleep
 -----------------------------------------
 Yo duermo sobre mi cama
 
-I sleep on my beed
+I sleep on my bed
 -----------------------------------------
+Ella duerme sobre mi cama
+
+She sleeps on my bed.
 -----------------------------------------
+I'm speaking to you.
+
+Te estoy hablando.
 -----------------------------------------
+I'm speaking to her.
+
+Estoy ablando con ella.
 -----------------------------------------
+I'm not speaking to him.
+
+No esoty ablando con el.
 -----------------------------------------
 -----------------------------------------
 -----------------------------------------
