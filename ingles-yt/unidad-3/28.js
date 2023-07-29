@@ -40,12 +40,31 @@ El no compro catorce papas.
 
 I didn't buy fourteen potatos
 ------------------------------------
+? Ella compra manzanas?
+
+Does she buy apples?
 ------------------------------------
+Does Miguel buy books?
+
+Miguel compra libros?
 ------------------------------------
+? Alexandra compra papas?
+
+Does Alexandra buy potatoes?
 ------------------------------------
+? Alexandra compro manzanas?
+
+Did alexandra buy apples?
 ------------------------------------
+? Compraste manzanas?
+
+Did you buy apples?
 ------------------------------------
+Estar o ser = To be
+Estado = been
 ------------------------------------
+have = tener ---> Tengo dos manzanas
+have = haber ---> He estado aqui antes.
 ------------------------------------
 ------------------------------------
 ------------------------------------
