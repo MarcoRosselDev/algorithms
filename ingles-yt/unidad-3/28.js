@@ -66,6 +66,43 @@ Estado = been
 have = tener ---> Tengo dos manzanas
 have = haber ---> He estado aqui antes.
 ------------------------------------
+Yo he estado aqui.
+
+I have been here.
 ------------------------------------
+I have been here = I've been here.
+------------------------------------
+I have been buying books with my friend.
+
+He estado comprando libros con mi amigo.
+------------------------------------
+boyfriend = novio
+girlfriend = novia
+wife = esposa
+husbend = esposo
+------------------------------------
+Mi novia ha estado bailando con mi hermano
+
+My girlfriend has been dancing with my brother.
+------------------------------------
+Mi novia ha bailado con mi hermano
+
+My girlfriend has danced with my brother
+------------------------------------
+Mi novia ha estado bailando con mi hermano
+
+My girlfriend has been dancing with my brother.
+------------------------------------
+outside = afuera.
+------------------------------------
+It has been cold outside.
+
+Ha estado helado/frio afuera.
+------------------------------------
+It has = Its
+------------------------------------
+Its been hot = It has been hot
+
+Ha estado haciendo calor.
 ------------------------------------
 */
