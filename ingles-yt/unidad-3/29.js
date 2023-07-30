@@ -47,11 +47,29 @@ I'm not speaking to him.
 
 No esoty ablando con el.
 -----------------------------------------
+The apple is for him
+
+La manzana es para el.
 -----------------------------------------
+esta manzana es de el
+
+This is his apple.
 -----------------------------------------
+Este libro es de ella
+
+This is her book.
 -----------------------------------------
+es el zapato de el
+
+It is his shoe.
 -----------------------------------------
+la amo
+
+I love her
 -----------------------------------------
+lo amo
+
+I love him
 -----------------------------------------
 -----------------------------------------
 */
