@@ -71,5 +71,47 @@ lo amo
 
 I love him
 -----------------------------------------
+bird = pajaro o ave
+cage = jaula
+-----------------------------------------
+El pajaro esta durmiendo en su jaula
+
+The bird is sleeping in its cage
+-----------------------------------------
+The dog is eating in its house
+
+El perro esta comiendo en su casa.
+-----------------------------------------
+I'm speaking to her not to you.
+
+Estoy ablandole a ella, no a ti.
+-----------------------------------------
+Estoy durmiendo con el.
+
+I'm sleeping with him.
+-----------------------------------------
+This is our pizza, not yours.
+
+Esta es nuestra pizza, no de ustedes.
+-----------------------------------------
+What color is their house?
+
+Que color es su casa.
+-----------------------------------------
+This is their bed.
+
+Esta es la cama de ellos.
+-----------------------------------------
+Compraste manzanas para ella?
+
+Did you buy apples for her?
+-----------------------------------------
+yo he estado aqui con ella.
+
+I have been here with her.
+-----------------------------------------
+I have been buying books with him
+
+yo he estado comprando libros con el.
 -----------------------------------------
 */
