@@ -41,4 +41,15 @@ Sólo quiero estar solo.
 
 I just want to be alone.
 ----------------------------------------
+This in only for you, I did it with love.
+Esto es solo para ti, yo hice eso con amor.
+
+Only adults.
+Solo adultos.
+
+Just married.
+recien casados.
+----------------------------------------
+----------------------------------------
+----------------------------------------
 */
