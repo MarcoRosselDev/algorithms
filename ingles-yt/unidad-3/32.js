@@ -19,9 +19,18 @@ There are two apples under the table
 
 hay dos manzanas bajo la mesa.
 ------------------------------------
+also = tambien
+garden  = jardin
 ------------------------------------
+hay cinco arboles en el jardin.
+
+There are five trees in the garden.
 ------------------------------------
+There are some big trees in my garden.
+
+Hay algunos arboles grandes en mi jardin.
 ------------------------------------
+There are not two apples under the table.
 ------------------------------------
 ------------------------------------
 ------------------------------------
