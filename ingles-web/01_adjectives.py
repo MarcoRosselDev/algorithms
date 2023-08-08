@@ -78,13 +78,73 @@ _____________________________________________________________
 Con algunos verbos el adjetivo se situa detras del verbo.
 Estos verbos son.
 
-To be - ser o estar
+To be - ser o estar     You are beautiful
 to become - ponerse
-to feel - sentirse
-to look - parecer
-to seem - parecer
-to smell - oler
+to feel - sentirse      I feel good
+to look - parecer       She looks tired
+to seem - parecer       He seems happy
+to smell - oler         It smells bad.
 to taste - gustar
 _____________________________________________________________
+2.  El adjetivo en ingles no tiene genero.
+
+fast - rapido/a
+good - bueno/a
+cold - frio/a
+tall - alto/a
+_____________________________________________________________
+3.  En general, los adjetivos no tienen una forfma plural.
+    Solo los adjetivos demostrativos y cuantitativos tienen
+formas diferentes para el singular y el plural
+
+Demostrativos:
+    this pencil - este lapiz
+    these pencils - estos lapices
+Cuantitativos:
+    much money
+    many books
+_____________________________________________________________
+4.  podemos usar dos o mas adjetivos juntos
+
+ejemplo:
+A small black book - un pequegno libro negro
+A pretty Spanish woman - una guapa espagnola
+A large glass table - una mesa de vidrio larga.
+A wonderful old city - una ciudad antigua y maravillosa.
+
+Como norma general, seguimos el siguiente orden cuando 
+utilizamos varios adjetivos:
+
+1. opinion/valor
+    delicious - delicioso
+    wonderful - maravilloso
+    pretty - bonita
+
+2. tamagnio/longitud
+    short - bajo
+    big - grande
+    small - pequegnio
+    tall - alto
+3. edad/temperatura
+    new - nuevo
+    old - viejo
+    young - joven
+    hot - caliente
+    cold - frio
+4. forma/superficie
+    round - redondo
+    thin - delgado
+    square - cuadrado
+5. color
+    red - rojo
+    black - negro
+    blue - azul
+    green - verde
+6. origen
+    Spanish - Espagniol
+    American - Americano
+    French - Frances
+7. Materia
+    
 _____________________________________________________________
 """
