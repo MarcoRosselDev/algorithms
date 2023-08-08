@@ -145,6 +145,15 @@ utilizamos varios adjetivos:
     American - Americano
     French - Frances
 7. Materia
-    
+    silver - plata
+    cotton - algodon
+    paper - papel
+    iron - hierro
+8. Uso
+    electric - electrico
+    political - politico
+9. nombre
+    bath - toalla
+    towel - bagnio
 _____________________________________________________________
 """
