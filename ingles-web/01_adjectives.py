@@ -49,5 +49,42 @@ any - ninguno/alguno
 many - mucho/s
 much - mucho
 _____________________________________________________________
+4.  Interrogative
 
+which? - Cual?
+what? - que?
+where? - donde?
+how? - como?
+_____________________________________________________________
+5.  Possessive
+
+my - mi
+your - tu
+his - su
+our - nuestro
+_____________________________________________________________
+6.  Numeric
+
+one - uno
+four - cuatro
+first - primero
+thrid - tercero
+_____________________________________________________________
+"""
+
+""" Grammatical rules
+
+1.  El adjetivo casi siempre se situa antes del nombre,
+Con algunos verbos el adjetivo se situa detras del verbo.
+Estos verbos son.
+
+To be - ser o estar
+to become - ponerse
+to feel - sentirse
+to look - parecer
+to seem - parecer
+to smell - oler
+to taste - gustar
+_____________________________________________________________
+_____________________________________________________________
 """
