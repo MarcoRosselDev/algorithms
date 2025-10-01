@@ -1,4 +1,4 @@
-function media(arr) {
+export function media(arr) {
   let sumatoria = 0
   for (const el of arr) {
     sumatoria += el
