@@ -22,4 +22,4 @@ for (let i = 0; i < values.length; i++) {
 
 // conclucion:
 // cuando x tiende a 0.5 por la izquierda el limite de la funcion
-// f tiende a ser -4
+// f tiende a ser -4 
