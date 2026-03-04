@@ -19,6 +19,6 @@ User Stories
 
 */
 
-function dropElements() {
+function dropElements(arr, fn) {
   
 }
