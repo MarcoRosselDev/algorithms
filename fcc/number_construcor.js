@@ -5,3 +5,4 @@ console.log(Number(true));
 console.log(Number(false));
 console.log(Number(undefined)); // NaN
 console.log(Number(null)); // 0
+
