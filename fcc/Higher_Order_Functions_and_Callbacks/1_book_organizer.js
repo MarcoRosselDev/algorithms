@@ -42,7 +42,15 @@ let books = [{
 }
 ]
 
-/* function sortByYear(book1, book2) {
-  
-} */
+function sortByYear(book1, book2) {
+  if (book1.releaseYear > book2.releaseYear) {
+    return 1
+  } else if (book1.releaseYear < book2.releaseYear){
+    return -1
+  } else {
+    return 0
+  }
+}
 
+let filteredBooks = books.filter(book => book.releaseYear <= 2005);
+filteredBooks.sort(sortByYear)
