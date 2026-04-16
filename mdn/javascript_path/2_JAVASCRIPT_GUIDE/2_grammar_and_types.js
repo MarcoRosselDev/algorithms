@@ -1,4 +1,5 @@
 (function () {
+  "use strict"
   console.log("another phras");
   
   /* comments 
@@ -13,5 +14,38 @@
   */
   let x = 33;
 
+  // DATA TYPES
+
+  /* LITERALS number and bitInt
+
+  0, 117, 123456789123456789n             (decimal, base 10)
+  015, 0001, 0o777777777777n              (octal, base 8)
+  0x1123, 0x00111, 0x123456789ABCDEFn     (hexadecimal, "hex" or base 16)
+  0b11, 0b0011, 0b11101001010101010101n   (binary, base 2)
+  */
+
+  // sintaxis de un flotante con exponente
+  // [digits].[digits][(E|e)[(+|-)]digits]
+  /* ejemplo:
+  3.1415926
+  .123456789
+  3.1E+12
+  .1e-23 */
   
+  const obj = {
+    // __proto__
+    __proto__: theProtoObj,
+    // Shorthand for 'handler: handler'
+    handler,
+    // Methods
+    toString() {
+      // Super calls
+      return `d ${super.toString()}`;
+    },
+    // Computed (dynamic) property names
+    ["prop_" + (() => 42)()]: 42,
+  };
+  console.log(obj.handler, obj.toString());
+  
+
 })()
