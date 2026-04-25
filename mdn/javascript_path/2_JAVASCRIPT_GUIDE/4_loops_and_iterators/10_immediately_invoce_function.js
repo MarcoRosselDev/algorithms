@@ -14,3 +14,13 @@ are useful.
 It is now an expression instead of a sequence of statements. This allows you to write complex 
 computation logic when initializing variables.
 */
+
+function fuera() {
+  const x = 10
+  function dentro (x) {
+    return x * 2
+  }
+  return dentro
+}
+
+console.log(fuera()(3));
