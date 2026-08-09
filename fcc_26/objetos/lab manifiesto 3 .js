@@ -85,9 +85,11 @@ let validateManifest = (manifest) => {
     returned_obj["hazmat"] = check_hazmat;
   }
   
-  //console.log("we're on returned obj:", returned_obj);
-  
-  return returned_obj
+  if (returned_obj) {
+    return returned_obj
+  } else {
+    return
+  }
 }
 
 let processManifest = (manifest) => {
@@ -104,9 +106,3 @@ let processManifest = (manifest) => {
     console.log(status_manifest);
   }
 }
-
-//processManifest({ containerId: 55, destination: "Carmel", weight: 400, unit: "lb", hazmat: false })
-processManifest({ containerId: -88, destination: "Soledad", weight: NaN })
-//validateManifest({ containerId: 0, destination: 405, weight: -84, unit: "pounds", hazmat: "no" });
-//processManifest({ containerId: -88, destination: "Soledad", weight: NaN });
-
