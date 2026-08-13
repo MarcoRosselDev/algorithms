@@ -31,6 +31,10 @@ const config4 = {
 };
 
 let runSequence = (config, cycles) => {
+  if (config.phases.length === 0) {
+    console.log("No phases found");
+    return
+  }
   // config es un objecto configurable
   // cycles son las iteraciones maximas
   for (let i = 0; i < cycles; i++) {
@@ -40,11 +44,13 @@ let runSequence = (config, cycles) => {
     } else if (config.fault) {
       console.log("Faulted phase!");
       break
-    } else if (config.phases[i].duration <= 0) {
-      console.log("Invalid phase detected");
     } else {
       for (let j = 0; j < config.phases.length; j++) {
-        console.log(`Switching to ${config.phases[j].color} for ${config.phases[j].duration} s`);        
+        if (config.phases[j].duration <= 0) {
+          console.log("Invalid phase detected");
+        } else{
+          console.log(`Switching to ${config.phases[j].color} for ${config.phases[j].duration} s`);        
+        }
       }
     }
   }
@@ -62,7 +68,9 @@ let generateTimeline = (config, cycles) => {
   return arr
 }
 
+//runSequence(config2, 1)
 runSequence(config4, 5)
+/* runSequence(config4, 5)
 runSequence(config1, 1)
 
-console.log(generateTimeline(config2, 2));
+console.log(generateTimeline(config2, 2)); */
